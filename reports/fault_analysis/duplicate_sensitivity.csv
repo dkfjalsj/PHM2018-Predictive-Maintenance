@@ -1,0 +1,5 @@
+fault_name,original_rows,unique_records,duplicate_excess
+FlowCool Pressure Dropped Below Limit,756,741,15
+Flowcool Pressure Too High Check Flowcool Pump,340,332,8
+Flowcool leak,139,137,2
+Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],1,1,0

@@ -1,0 +1,1217 @@
+Tool,previous_time,time,gap,previous_fault,fault_name,source_file,source_row
+01M01,6533184,8286500,1753316,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,3
+01M01,8286500,8627086,340586,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,4
+01M01,8627086,8697340,70254,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,5
+01M01,8697340,8971484,274144,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,6
+01M01,8971484,12638238,3666754,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,01_M01_train_fault_data.csv,7
+01M01,12638238,12828064,189826,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,8
+01M01,12828064,14026692,1198628,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,9
+01M01,14026692,15827488,1800796,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,10
+01M01,15827488,18573644,2746156,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,01_M01_train_fault_data.csv,11
+01M01,18573644,20174938,1601294,Flowcool Pressure Too High Check Flowcool Pump,Flowcool leak,01_M01_train_fault_data.csv,12
+01M01,20174938,26098948,5924010,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,01_M01_train_fault_data.csv,13
+01M01,26098948,31212736,5113788,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,14
+01M01,31212736,31229684,16948,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,15
+01M01,31229684,31231428,1744,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,16
+01M01,31231428,39525730,8294302,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,01_M01_train_fault_data.csv,17
+01M01,39525730,40082846,557116,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,18
+01M01,40082846,40567036,484190,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,01_M01_train_fault_data.csv,19
+01M01,40567036,42056638,1489602,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,01_M01_train_fault_data.csv,20
+01M02,3907068,3915070,8002,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,3
+01M02,3915070,3916348,1278,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,4
+01M02,3916348,3916822,474,Flowcool leak,Flowcool leak,01_M02_train_fault_data.csv,5
+01M02,3916822,3918310,1488,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,6
+01M02,3918310,3937494,19184,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,7
+01M02,3937494,3940162,2668,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,8
+01M02,3940162,3958954,18792,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,9
+01M02,3958954,3962388,3434,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,10
+01M02,3962388,3968458,6070,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,11
+01M02,3968458,3970900,2442,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,12
+01M02,3970900,3971424,524,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,13
+01M02,3971424,3973348,1924,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,14
+01M02,3973348,8059958,4086610,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,15
+01M02,8059958,8072052,12094,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,16
+01M02,8072052,8105258,33206,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,17
+01M02,8105258,8123030,17772,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,18
+01M02,8123030,8124434,1404,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,19
+01M02,8124434,8124986,552,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,20
+01M02,8124986,8125434,448,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,21
+01M02,8125434,8127122,1688,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,22
+01M02,8127122,8132488,5366,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,23
+01M02,8132488,8136008,3520,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,24
+01M02,8136008,9273100,1137092,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,25
+01M02,9273100,9512452,239352,Flowcool leak,Flowcool leak,01_M02_train_fault_data.csv,26
+01M02,9512452,9518094,5642,Flowcool leak,Flowcool leak,01_M02_train_fault_data.csv,27
+01M02,9518094,12430304,2912210,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,28
+01M02,12430304,12435366,5062,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,29
+01M02,12435366,12436028,662,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,30
+01M02,12436028,12437254,1226,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,31
+01M02,12437254,12437984,730,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,32
+01M02,12437984,12439690,1706,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,33
+01M02,12439690,12441326,1636,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,34
+01M02,12441326,12514660,73334,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,35
+01M02,12514660,12537920,23260,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,36
+01M02,12537920,12580330,42410,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,37
+01M02,12580330,12582892,2562,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,38
+01M02,12582892,12588600,5708,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,39
+01M02,12588600,12611078,22478,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,40
+01M02,12611078,12619524,8446,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,41
+01M02,12619524,12625938,6414,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,42
+01M02,12625938,12635510,9572,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,43
+01M02,12635510,12636486,976,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,44
+01M02,12636486,12649872,13386,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,45
+01M02,12649872,12669900,20028,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,46
+01M02,12669900,12681116,11216,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,47
+01M02,12681116,12682450,1334,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,48
+01M02,12682450,12684886,2436,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,49
+01M02,12684886,12686968,2082,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,50
+01M02,12686968,12688802,1834,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,51
+01M02,12688802,12690282,1480,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,52
+01M02,12690282,12692262,1980,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,53
+01M02,12692262,12699926,7664,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,54
+01M02,12699926,18057900,5357974,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,55
+01M02,18057900,18061382,3482,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,56
+01M02,18061382,18074648,13266,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,57
+01M02,18074648,18097634,22986,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,58
+01M02,18097634,18108796,11162,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,59
+01M02,18108796,18139306,30510,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,60
+01M02,18139306,18142434,3128,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,61
+01M02,18142434,21905340,3762906,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,62
+01M02,21905340,22073942,168602,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,63
+01M02,22073942,22075508,1566,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,64
+01M02,22075508,22086924,11416,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,65
+01M02,22086924,22575152,488228,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,66
+01M02,22575152,22779500,204348,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,67
+01M02,22779500,22793870,14370,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,68
+01M02,22793870,22828180,34310,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,69
+01M02,22828180,23082772,254592,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,70
+01M02,23082772,23086028,3256,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,71
+01M02,23086028,23087158,1130,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,72
+01M02,23087158,23087648,490,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,73
+01M02,23087648,23348690,261042,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,74
+01M02,23348690,23358554,9864,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,75
+01M02,23358554,23630826,272272,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,76
+01M02,23630826,23801808,170982,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,77
+01M02,23801808,23834942,33134,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,78
+01M02,23834942,24521052,686110,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,79
+01M02,24521052,25002546,481494,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,80
+01M02,25002546,25025806,23260,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,81
+01M02,25025806,25136976,111170,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,82
+01M02,25136976,25636030,499054,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,83
+01M02,25636030,25637472,1442,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,84
+01M02,25637472,28029182,2391710,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,85
+01M02,28029182,28113782,84600,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,86
+01M02,28113782,28126778,12996,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,87
+01M02,28126778,31425558,3298780,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,88
+01M02,31425558,31427350,1792,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,01_M02_train_fault_data.csv,89
+01M02,31427350,31427832,482,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,90
+01M02,31427832,35337042,3909210,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,91
+01M02,35337042,35339442,2400,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,92
+01M02,35339442,35479832,140390,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,93
+01M02,35479832,35479998,166,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,94
+01M02,35479998,35667758,187760,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,95
+01M02,35667758,35672222,4464,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,96
+01M02,35672222,36022710,350488,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,97
+01M02,36022710,36132446,109736,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,98
+01M02,36132446,36134280,1834,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,99
+01M02,36134280,36138198,3918,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,100
+01M02,36138198,36140216,2018,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,101
+01M02,36140216,36145322,5106,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,102
+01M02,36145322,36402870,257548,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,103
+01M02,36402870,36408260,5390,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,104
+01M02,36408260,36575444,167184,Flowcool leak,Flowcool leak,01_M02_train_fault_data.csv,105
+01M02,36575444,36712164,136720,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,106
+01M02,36712164,36765886,53722,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,107
+01M02,36765886,36767406,1520,FlowCool Pressure Dropped Below Limit,Flowcool leak,01_M02_train_fault_data.csv,108
+01M02,36767406,36777452,10046,Flowcool leak,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,109
+01M02,36777452,36797152,19700,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,01_M02_train_fault_data.csv,110
+02M01,9557348,13448760,3891412,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,02_M01_train_fault_data.csv,3
+02M01,13448760,13705094,256334,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,02_M01_train_fault_data.csv,4
+02M01,13705094,18222670,4517576,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,02_M01_train_fault_data.csv,5
+02M01,18222670,18462150,239480,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,02_M01_train_fault_data.csv,6
+02M01,18462150,24224028,5761878,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,02_M01_train_fault_data.csv,7
+02M01,24224028,24228672,4644,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,02_M01_train_fault_data.csv,8
+02M01,24228672,24228872,200,FlowCool Pressure Dropped Below Limit,Flowcool leak,02_M01_train_fault_data.csv,9
+02M01,24228872,24229428,556,Flowcool leak,FlowCool Pressure Dropped Below Limit,02_M01_train_fault_data.csv,10
+02M01,24229428,24244486,15058,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,02_M01_train_fault_data.csv,11
+02M01,24244486,25020144,775658,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,02_M01_train_fault_data.csv,12
+02M01,25020144,25022344,2200,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M01_train_fault_data.csv,13
+02M01,25022344,25028016,5672,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M01_train_fault_data.csv,14
+02M01,25028016,25226812,198796,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M01_train_fault_data.csv,15
+02M01,25226812,27575274,2348462,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,02_M01_train_fault_data.csv,16
+02M01,27575274,28955794,1380520,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,02_M01_train_fault_data.csv,17
+02M01,28955794,29732852,777058,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,02_M01_train_fault_data.csv,18
+02M02,3793470,5172326,1378856,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,3
+02M02,5172326,5172326,0,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,4
+02M02,5172326,5924648,752322,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,5
+02M02,5924648,8739134,2814486,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,6
+02M02,8739134,9157434,418300,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,7
+02M02,9157434,9158332,898,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,02_M02_train_fault_data.csv,8
+02M02,9158332,9842902,684570,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,02_M02_train_fault_data.csv,9
+02M02,9842902,11143890,1300988,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,10
+02M02,11143890,11347536,203646,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,11
+02M02,11347536,12614954,1267418,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,12
+02M02,12614954,13516514,901560,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,13
+02M02,13516514,14293474,776960,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,14
+02M02,14293474,14372758,79284,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,02_M02_train_fault_data.csv,15
+02M02,14372758,14376672,3914,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,02_M02_train_fault_data.csv,16
+02M02,14376672,14382020,5348,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,02_M02_train_fault_data.csv,17
+02M02,14382020,14421672,39652,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,18
+02M02,14421672,15048382,626710,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,19
+02M02,15048382,16756608,1708226,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,20
+02M02,16756608,17449270,692662,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,21
+02M02,17449270,18244116,794846,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,22
+02M02,18244116,18455880,211764,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,23
+02M02,18455880,21206288,2750408,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,24
+02M02,21206288,21690196,483908,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,25
+02M02,21690196,24301142,2610946,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,26
+02M02,24301142,25485676,1184534,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,27
+02M02,25485676,27586950,2101274,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,28
+02M02,27586950,28672758,1085808,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,29
+02M02,28672758,29101062,428304,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,30
+02M02,29101062,30731654,1630592,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,31
+02M02,30731654,32853538,2121884,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,32
+02M02,32853538,36003472,3149934,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,33
+02M02,36003472,36074426,70954,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,02_M02_train_fault_data.csv,34
+03M01,3396958,3534642,137684,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,3
+03M01,3534642,3990592,455950,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,4
+03M01,3990592,4013508,22916,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,5
+03M01,4013508,4029158,15650,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,6
+03M01,4029158,4086990,57832,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,7
+03M01,4086990,4094310,7320,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,8
+03M01,4094310,4591098,496788,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,9
+03M01,4591098,4591098,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,10
+03M01,4591098,5087594,496496,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,11
+03M01,5087594,5087594,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,12
+03M01,5087594,5942594,855000,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,13
+03M01,5942594,6370172,427578,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,14
+03M01,6370172,6402642,32470,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,15
+03M01,6402642,6430752,28110,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,16
+03M01,6430752,6446460,15708,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,17
+03M01,6446460,8202228,1755768,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,18
+03M01,8202228,9151826,949598,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,19
+03M01,9151826,9169980,18154,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,20
+03M01,9169980,9250144,80164,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,21
+03M01,9250144,9257184,7040,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,22
+03M01,9257184,9268054,10870,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,23
+03M01,9268054,9275742,7688,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,24
+03M01,9275742,9288290,12548,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,25
+03M01,9288290,9291170,2880,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,26
+03M01,9291170,9408744,117574,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,27
+03M01,9408744,9417328,8584,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,28
+03M01,9417328,9601872,184544,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,29
+03M01,9601872,9729970,128098,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,30
+03M01,9729970,9732344,2374,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,31
+03M01,9732344,9906576,174232,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,32
+03M01,9906576,9918394,11818,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,33
+03M01,9918394,9980532,62138,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,34
+03M01,9980532,9984170,3638,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,35
+03M01,9984170,10563966,579796,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,36
+03M01,10563966,10571724,7758,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,37
+03M01,10571724,10892430,320706,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,38
+03M01,10892430,11139670,247240,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,39
+03M01,11139670,11151244,11574,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,40
+03M01,11151244,11226036,74792,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,41
+03M01,11226036,11492880,266844,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,42
+03M01,11492880,14110128,2617248,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,43
+03M01,14110128,14130966,20838,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,44
+03M01,14130966,14164142,33176,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,45
+03M01,14164142,14485362,321220,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,46
+03M01,14485362,14529034,43672,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,47
+03M01,14529034,14627086,98052,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,48
+03M01,14627086,14704314,77228,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,49
+03M01,14704314,14738932,34618,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,50
+03M01,14738932,15134836,395904,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,51
+03M01,15134836,15243896,109060,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,52
+03M01,15243896,15321190,77294,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,53
+03M01,15321190,15325162,3972,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,54
+03M01,15325162,15341970,16808,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,55
+03M01,15341970,15444770,102800,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,56
+03M01,15444770,15716062,271292,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,57
+03M01,15716062,15750054,33992,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,58
+03M01,15750054,15911644,161590,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,59
+03M01,15911644,16138330,226686,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,60
+03M01,16138330,16185510,47180,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,61
+03M01,16185510,16305716,120206,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,62
+03M01,16305716,16332614,26898,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,63
+03M01,16332614,16334758,2144,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,64
+03M01,16334758,16335678,920,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,65
+03M01,16335678,19463242,3127564,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,66
+03M01,19463242,23081692,3618450,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,67
+03M01,23081692,23083508,1816,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,68
+03M01,23083508,23084620,1112,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,69
+03M01,23084620,23087462,2842,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,70
+03M01,23087462,23088894,1432,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,71
+03M01,23088894,23103938,15044,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,72
+03M01,23103938,23107064,3126,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,73
+03M01,23107064,23107698,634,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,74
+03M01,23107698,23110488,2790,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,75
+03M01,23110488,23117980,7492,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,76
+03M01,23117980,23119928,1948,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,77
+03M01,23119928,23120894,966,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,78
+03M01,23120894,23121864,970,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,79
+03M01,23121864,28404908,5283044,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,80
+03M01,28404908,28405810,902,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,81
+03M01,28405810,28669010,263200,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,82
+03M01,28669010,28669548,538,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,83
+03M01,28669548,30585776,1916228,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,84
+03M01,30585776,30586248,472,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,85
+03M01,30586248,30701606,115358,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,86
+03M01,30701606,30702522,916,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,87
+03M01,30702522,30703620,1098,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,88
+03M01,30703620,34984004,4280384,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M01_train_fault_data.csv,89
+03M01,34984004,35070206,86202,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,90
+03M01,35070206,35072704,2498,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,91
+03M01,35072704,35074374,1670,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,92
+03M01,35074374,37549642,2475268,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,93
+03M01,37549642,39968588,2418946,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M01_train_fault_data.csv,94
+03M02,3326152,3780688,454536,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,3
+03M02,3780688,3961378,180690,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,4
+03M02,3961378,4528896,567518,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,5
+03M02,4528896,4528896,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,6
+03M02,4528896,4984318,455422,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,7
+03M02,4984318,4984318,0,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,8
+03M02,4984318,5076390,92072,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,9
+03M02,5076390,5076390,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,10
+03M02,5076390,5120600,44210,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,11
+03M02,5120600,5120600,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,12
+03M02,5120600,5128078,7478,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,13
+03M02,5128078,5128078,0,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,14
+03M02,5128078,6040840,912762,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,15
+03M02,6040840,6052526,11686,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,16
+03M02,6052526,6187286,134760,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,17
+03M02,6187286,6208070,20784,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,18
+03M02,6208070,6239880,31810,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,19
+03M02,6239880,6623116,383236,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,20
+03M02,6623116,6672860,49744,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,21
+03M02,6672860,6784386,111526,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,22
+03M02,6784386,6913658,129272,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,23
+03M02,6913658,7293438,379780,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,24
+03M02,7293438,7672018,378580,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,25
+03M02,7672018,7727590,55572,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,26
+03M02,7727590,7837014,109424,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,27
+03M02,7837014,8019242,182228,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,28
+03M02,8019242,8147834,128592,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,29
+03M02,8147834,8182504,34670,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,30
+03M02,8182504,8382618,200114,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,31
+03M02,8382618,8431318,48700,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,32
+03M02,8431318,8444082,12764,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,33
+03M02,8444082,8612686,168604,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,34
+03M02,8612686,9049736,437050,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,35
+03M02,9049736,9179914,130178,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,36
+03M02,9179914,9188844,8930,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,37
+03M02,9188844,9287446,98602,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,38
+03M02,9287446,9367002,79556,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,39
+03M02,9367002,9433324,66322,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,40
+03M02,9433324,9481532,48208,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,41
+03M02,9481532,9499362,17830,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,42
+03M02,9499362,9639524,140162,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,43
+03M02,9639524,9836736,197212,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,44
+03M02,9836736,10003096,166360,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,45
+03M02,10003096,10047398,44302,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,46
+03M02,10047398,10056792,9394,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,47
+03M02,10056792,10226996,170204,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,48
+03M02,10226996,10298636,71640,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,49
+03M02,10298636,10308348,9712,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,50
+03M02,10308348,10445560,137212,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,51
+03M02,10445560,10614040,168480,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,52
+03M02,10614040,10855220,241180,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,53
+03M02,10855220,11171470,316250,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,54
+03M02,11171470,11203868,32398,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,55
+03M02,11203868,11283816,79948,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,56
+03M02,11283816,11315156,31340,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,57
+03M02,11315156,11432132,116976,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,58
+03M02,11432132,11911880,479748,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,59
+03M02,11911880,12218694,306814,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,60
+03M02,12218694,12259164,40470,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,61
+03M02,12259164,12365870,106706,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,62
+03M02,12365870,12630224,264354,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,63
+03M02,12630224,12696448,66224,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,64
+03M02,12696448,12908506,212058,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,65
+03M02,12908506,13198200,289694,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,66
+03M02,13198200,13374204,176004,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,67
+03M02,13374204,13470176,95972,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,68
+03M02,13470176,13616410,146234,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,69
+03M02,13616410,13903394,286984,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,70
+03M02,13903394,14448376,544982,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,71
+03M02,14448376,14679356,230980,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,72
+03M02,14679356,14833638,154282,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,73
+03M02,14833638,15137166,303528,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,74
+03M02,15137166,15225580,88414,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,75
+03M02,15225580,15265172,39592,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,76
+03M02,15265172,15386092,120920,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,77
+03M02,15386092,15553226,167134,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,78
+03M02,15553226,15662620,109394,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,79
+03M02,15662620,16261610,598990,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,80
+03M02,16261610,16375584,113974,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,81
+03M02,16375584,16761984,386400,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,82
+03M02,16761984,16859164,97180,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,83
+03M02,16859164,16949558,90394,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,84
+03M02,16949558,17132248,182690,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,85
+03M02,17132248,17188274,56026,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,86
+03M02,17188274,17445360,257086,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,87
+03M02,17445360,17555544,110184,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,88
+03M02,17555544,17876634,321090,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,89
+03M02,17876634,18245834,369200,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,90
+03M02,18245834,18385284,139450,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,91
+03M02,18385284,18469642,84358,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,92
+03M02,18469642,18494164,24522,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,93
+03M02,18494164,18537860,43696,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,94
+03M02,18537860,18585458,47598,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,95
+03M02,18585458,18644314,58856,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,96
+03M02,18644314,18840778,196464,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,97
+03M02,18840778,18928912,88134,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,98
+03M02,18928912,18992298,63386,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,99
+03M02,18992298,19120120,127822,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,100
+03M02,19120120,19189284,69164,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,101
+03M02,19189284,19212532,23248,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,102
+03M02,19212532,19246094,33562,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,103
+03M02,19246094,19435902,189808,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,104
+03M02,19435902,19535422,99520,FlowCool Pressure Dropped Below Limit,Flowcool leak,03_M02_train_fault_data.csv,105
+03M02,19535422,19537706,2284,Flowcool leak,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,106
+03M02,19537706,19556864,19158,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,107
+03M02,19556864,19641694,84830,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,108
+03M02,19641694,19660930,19236,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,109
+03M02,19660930,19807066,146136,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,110
+03M02,19807066,19902638,95572,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,111
+03M02,19902638,20000140,97502,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,112
+03M02,20000140,20013840,13700,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,113
+03M02,20013840,20059334,45494,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,114
+03M02,20059334,20105938,46604,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,115
+03M02,20105938,20139054,33116,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,116
+03M02,20139054,20204422,65368,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,117
+03M02,20204422,20288634,84212,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,118
+03M02,20288634,20357252,68618,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,119
+03M02,20357252,20391848,34596,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,120
+03M02,20391848,20518336,126488,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,121
+03M02,20518336,20549668,31332,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,122
+03M02,20549668,20679052,129384,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,123
+03M02,20679052,20752200,73148,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,124
+03M02,20752200,20766592,14392,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,125
+03M02,20766592,20791620,25028,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,126
+03M02,20791620,20824656,33036,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,127
+03M02,20824656,20865304,40648,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,128
+03M02,20865304,20976582,111278,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,129
+03M02,20976582,20994000,17418,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,130
+03M02,20994000,21087164,93164,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,131
+03M02,21087164,21188404,101240,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,132
+03M02,21188404,21215552,27148,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,133
+03M02,21215552,21277176,61624,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,134
+03M02,21277176,21289758,12582,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,135
+03M02,21289758,21356292,66534,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,136
+03M02,21356292,21537920,181628,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,137
+03M02,21537920,21637312,99392,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,138
+03M02,21637312,21662924,25612,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,139
+03M02,21662924,21683454,20530,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,140
+03M02,21683454,21863024,179570,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,141
+03M02,21863024,21961218,98194,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,142
+03M02,21961218,21999208,37990,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,143
+03M02,21999208,22149766,150558,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,144
+03M02,22149766,22168000,18234,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,145
+03M02,22168000,22248054,80054,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,146
+03M02,22248054,22421116,173062,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,147
+03M02,22421116,22480712,59596,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,148
+03M02,22480712,22564472,83760,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,149
+03M02,22564472,22703102,138630,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,150
+03M02,22703102,22758310,55208,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,151
+03M02,22758310,23080802,322492,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,152
+03M02,23080802,23098522,17720,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,153
+03M02,23098522,23291380,192858,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,154
+03M02,23291380,23481306,189926,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,155
+03M02,23481306,23493104,11798,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,156
+03M02,23493104,23528964,35860,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,157
+03M02,23528964,23565790,36826,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,158
+03M02,23565790,23692476,126686,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,159
+03M02,23692476,23707852,15376,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,160
+03M02,23707852,23717738,9886,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,161
+03M02,23717738,23728444,10706,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,162
+03M02,23728444,23737016,8572,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,163
+03M02,23737016,23757230,20214,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,164
+03M02,23757230,23783744,26514,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,165
+03M02,23783744,23797950,14206,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,166
+03M02,23797950,23808410,10460,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,167
+03M02,23808410,23835362,26952,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,168
+03M02,23835362,23901980,66618,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,169
+03M02,23901980,23903554,1574,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,170
+03M02,23903554,23951900,48346,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,171
+03M02,23951900,24055316,103416,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,172
+03M02,24055316,24056506,1190,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,173
+03M02,24056506,24077942,21436,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,174
+03M02,24077942,24079010,1068,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,175
+03M02,24079010,24166286,87276,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,176
+03M02,24166286,24167262,976,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,177
+03M02,24167262,24252242,84980,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,178
+03M02,24252242,24289136,36894,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,179
+03M02,24289136,24289948,812,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,180
+03M02,24289948,24297924,7976,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,181
+03M02,24297924,24298748,824,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,182
+03M02,24298748,24339830,41082,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,183
+03M02,24339830,24352610,12780,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,184
+03M02,24352610,24418864,66254,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,185
+03M02,24418864,24419660,796,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,186
+03M02,24419660,24432486,12826,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,187
+03M02,24432486,24433216,730,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,188
+03M02,24433216,24443674,10458,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,189
+03M02,24443674,24444392,718,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,190
+03M02,24444392,24469536,25144,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,191
+03M02,24469536,24470258,722,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,192
+03M02,24470258,24497682,27424,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,193
+03M02,24497682,24498478,796,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,194
+03M02,24498478,24535154,36676,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,195
+03M02,24535154,24535914,760,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,196
+03M02,24535914,24576194,40280,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,197
+03M02,24576194,24675716,99522,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,198
+03M02,24675716,24676498,782,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,199
+03M02,24676498,24738256,61758,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,200
+03M02,24738256,24757960,19704,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,201
+03M02,24757960,24758816,856,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,202
+03M02,24758816,24839056,80240,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,203
+03M02,24839056,24927818,88762,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,204
+03M02,24927818,24928632,814,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,205
+03M02,24928632,24965838,37206,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,206
+03M02,24965838,24966660,822,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,207
+03M02,24966660,24982382,15722,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,208
+03M02,24982382,25102526,120144,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,209
+03M02,25102526,25103410,884,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,210
+03M02,25103410,25140218,36808,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,211
+03M02,25140218,25141112,894,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,212
+03M02,25141112,25276016,134904,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,213
+03M02,25276016,25293448,17432,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,214
+03M02,25293448,25431074,137626,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,215
+03M02,25431074,25467346,36272,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],03_M02_train_fault_data.csv,216
+03M02,25467346,25471368,4022,Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,217
+03M02,25471368,25522388,51020,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,218
+03M02,25522388,25603022,80634,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,219
+03M02,25603022,25847378,244356,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,220
+03M02,25847378,26048712,201334,FlowCool Pressure Dropped Below Limit,Flowcool leak,03_M02_train_fault_data.csv,221
+03M02,26048712,26051738,3026,Flowcool leak,Flowcool leak,03_M02_train_fault_data.csv,222
+03M02,26051738,26052292,554,Flowcool leak,Flowcool leak,03_M02_train_fault_data.csv,223
+03M02,26052292,26059006,6714,Flowcool leak,Flowcool leak,03_M02_train_fault_data.csv,224
+03M02,26059006,26072970,13964,Flowcool leak,Flowcool leak,03_M02_train_fault_data.csv,225
+03M02,26072970,26073686,716,Flowcool leak,Flowcool leak,03_M02_train_fault_data.csv,226
+03M02,26073686,26100074,26388,Flowcool leak,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,227
+03M02,26100074,26169696,69622,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,228
+03M02,26169696,26440768,271072,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,229
+03M02,26440768,26513864,73096,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,230
+03M02,26513864,26565710,51846,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,231
+03M02,26565710,26625700,59990,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,232
+03M02,26625700,26667314,41614,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,233
+03M02,26667314,26765924,98610,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,234
+03M02,26765924,26869716,103792,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,235
+03M02,26869716,26896164,26448,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,236
+03M02,26896164,27006270,110106,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,237
+03M02,27006270,27122650,116380,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,238
+03M02,27122650,27162974,40324,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,239
+03M02,27162974,27205960,42986,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,240
+03M02,27205960,27462212,256252,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,241
+03M02,27462212,27520930,58718,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,242
+03M02,27520930,27604156,83226,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,243
+03M02,27604156,27679374,75218,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,244
+03M02,27679374,27886310,206936,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,245
+03M02,27886310,27886398,88,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,246
+03M02,27886398,27899460,13062,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,247
+03M02,27899460,27922370,22910,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,248
+03M02,27922370,27954278,31908,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,249
+03M02,27954278,27980956,26678,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,250
+03M02,27980956,27990060,9104,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,251
+03M02,27990060,28016390,26330,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,252
+03M02,28016390,28042716,26326,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,253
+03M02,28042716,28127658,84942,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,254
+03M02,28127658,28528564,400906,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,255
+03M02,28528564,28631674,103110,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,256
+03M02,28631674,28667932,36258,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,257
+03M02,28667932,28783026,115094,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,258
+03M02,28783026,28897512,114486,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,259
+03M02,28897512,28933158,35646,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,260
+03M02,28933158,28938358,5200,FlowCool Pressure Dropped Below Limit,Flowcool leak,03_M02_train_fault_data.csv,261
+03M02,28938358,28946852,8494,Flowcool leak,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,262
+03M02,28946852,28948550,1698,FlowCool Pressure Dropped Below Limit,Flowcool leak,03_M02_train_fault_data.csv,263
+03M02,28948550,28980408,31858,Flowcool leak,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,264
+03M02,28980408,29002000,21592,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,265
+03M02,29002000,29038130,36130,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,266
+03M02,29038130,29046530,8400,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,267
+03M02,29046530,29115806,69276,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,268
+03M02,29115806,29136736,20930,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,269
+03M02,29136736,29247078,110342,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,270
+03M02,29247078,29262170,15092,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,271
+03M02,29262170,29318316,56146,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,272
+03M02,29318316,29345754,27438,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,273
+03M02,29345754,29615618,269864,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,274
+03M02,29615618,29766942,151324,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,275
+03M02,29766942,29866524,99582,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,276
+03M02,29866524,29891654,25130,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,277
+03M02,29891654,29964526,72872,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,278
+03M02,29964526,30115764,151238,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,279
+03M02,30115764,30142594,26830,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,280
+03M02,30142594,30173148,30554,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,281
+03M02,30173148,30280108,106960,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,282
+03M02,30280108,30378646,98538,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,283
+03M02,30378646,30783876,405230,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,284
+03M02,30783876,30818460,34584,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,285
+03M02,30818460,31009562,191102,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,286
+03M02,31009562,31060274,50712,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,287
+03M02,31060274,31075446,15172,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,288
+03M02,31075446,31270284,194838,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,289
+03M02,31270284,31284862,14578,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,290
+03M02,31284862,31337798,52936,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,291
+03M02,31337798,31406414,68616,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,292
+03M02,31406414,31496376,89962,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,293
+03M02,31496376,31559598,63222,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,294
+03M02,31559598,31608418,48820,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,295
+03M02,31608418,31773832,165414,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,296
+03M02,31773832,31888714,114882,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,297
+03M02,31888714,31943100,54386,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,298
+03M02,31943100,32033108,90008,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,299
+03M02,32033108,32121574,88466,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,300
+03M02,32121574,32130558,8984,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,301
+03M02,32130558,32301544,170986,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,302
+03M02,32301544,32362424,60880,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,303
+03M02,32362424,32386542,24118,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,304
+03M02,32386542,32412224,25682,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,305
+03M02,32412224,32464108,51884,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,306
+03M02,32464108,32481638,17530,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,307
+03M02,32481638,32624526,142888,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,308
+03M02,32624526,32637946,13420,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,309
+03M02,32637946,32812676,174730,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,310
+03M02,32812676,32845886,33210,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,311
+03M02,32845886,32891358,45472,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,312
+03M02,32891358,32908380,17022,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,313
+03M02,32908380,33109690,201310,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,314
+03M02,33109690,33292958,183268,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,315
+03M02,33292958,33397540,104582,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,316
+03M02,33397540,33470894,73354,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,317
+03M02,33470894,34874274,1403380,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,318
+03M02,34874274,34902458,28184,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,319
+03M02,34902458,34945770,43312,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,320
+03M02,34945770,34952804,7034,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,321
+03M02,34952804,35006446,53642,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,322
+03M02,35006446,35071506,65060,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,323
+03M02,35071506,35103954,32448,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,324
+03M02,35103954,35135358,31404,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,325
+03M02,35135358,35152452,17094,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,326
+03M02,35152452,35165868,13416,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,327
+03M02,35165868,35179684,13816,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,328
+03M02,35179684,35207486,27802,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,329
+03M02,35207486,35293090,85604,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,330
+03M02,35293090,35416716,123626,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,331
+03M02,35416716,35476948,60232,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,332
+03M02,35476948,35516362,39414,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,333
+03M02,35516362,35614502,98140,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,334
+03M02,35614502,35634688,20186,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,335
+03M02,35634688,35990812,356124,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,336
+03M02,35990812,36019986,29174,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,337
+03M02,36019986,36049948,29962,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,338
+03M02,36049948,36097914,47966,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,339
+03M02,36097914,36172306,74392,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,340
+03M02,36172306,36282140,109834,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,341
+03M02,36282140,36491642,209502,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,342
+03M02,36491642,36560146,68504,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,343
+03M02,36560146,36618598,58452,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,344
+03M02,36618598,36757494,138896,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,345
+03M02,36757494,36792880,35386,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,346
+03M02,36792880,36828140,35260,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,347
+03M02,36828140,37163352,335212,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,348
+03M02,37163352,37247336,83984,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,349
+03M02,37247336,37266084,18748,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,350
+03M02,37266084,37344276,78192,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,351
+03M02,37344276,37406492,62216,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,352
+03M02,37406492,37500934,94442,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,03_M02_train_fault_data.csv,353
+03M02,37500934,37568158,67224,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,354
+03M02,37568158,39694648,2126490,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,355
+03M02,39694648,40012102,317454,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,356
+03M02,40012102,40619552,607450,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,357
+03M02,40619552,41424508,804956,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,358
+03M02,41424508,42277232,852724,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,359
+03M02,42277232,42365550,88318,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,360
+03M02,42365550,42399838,34288,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,361
+03M02,42399838,43992410,1592572,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,03_M02_train_fault_data.csv,362
+04M01,3897904,8199788,4301884,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,04_M01_train_fault_data.csv,3
+04M01,8199788,8274798,75010,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M01_train_fault_data.csv,4
+04M01,8274798,8275306,508,FlowCool Pressure Dropped Below Limit,Flowcool leak,04_M01_train_fault_data.csv,5
+04M01,8275306,8415478,140172,Flowcool leak,FlowCool Pressure Dropped Below Limit,04_M01_train_fault_data.csv,6
+04M01,8415478,8420476,4998,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M01_train_fault_data.csv,7
+04M01,8420476,30683382,22262906,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M01_train_fault_data.csv,8
+04M01,30683382,30697570,14188,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M01_train_fault_data.csv,9
+04M01,30697570,30703278,5708,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M01_train_fault_data.csv,10
+04M02,3926292,23846800,19920508,Flowcool Pressure Too High Check Flowcool Pump,Flowcool leak,04_M02_train_fault_data.csv,3
+04M02,23846800,24337110,490310,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,4
+04M02,24337110,28324130,3987020,Flowcool leak,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,5
+04M02,28324130,28325090,960,FlowCool Pressure Dropped Below Limit,Flowcool leak,04_M02_train_fault_data.csv,6
+04M02,28325090,28972818,647728,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,7
+04M02,28972818,31685914,2713096,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,8
+04M02,31685914,31732512,46598,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,9
+04M02,31732512,31737548,5036,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,10
+04M02,31737548,32336080,598532,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,11
+04M02,32336080,32340854,4774,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,12
+04M02,32340854,32350284,9430,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,13
+04M02,32350284,32366510,16226,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,14
+04M02,32366510,33155122,788612,Flowcool leak,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,15
+04M02,33155122,33172344,17222,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,16
+04M02,33172344,33176862,4518,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,17
+04M02,33176862,33178868,2006,FlowCool Pressure Dropped Below Limit,Flowcool leak,04_M02_train_fault_data.csv,18
+04M02,33178868,33189800,10932,Flowcool leak,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,19
+04M02,33189800,33195542,5742,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,20
+04M02,33195542,35997938,2802396,FlowCool Pressure Dropped Below Limit,Flowcool leak,04_M02_train_fault_data.csv,21
+04M02,35997938,36001748,3810,Flowcool leak,Flowcool leak,04_M02_train_fault_data.csv,22
+04M02,36001748,37152114,1150366,Flowcool leak,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,23
+04M02,37152114,37156970,4856,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,24
+04M02,37156970,37157412,442,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,25
+04M02,37157412,38366680,1209268,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,26
+04M02,38366680,38367112,432,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,27
+04M02,38367112,39934072,1566960,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,28
+04M02,39934072,40046050,111978,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,29
+04M02,40046050,40171344,125294,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,30
+04M02,40171344,40188902,17558,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,31
+04M02,40188902,40323398,134496,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,32
+04M02,40323398,40356862,33464,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,33
+04M02,40356862,40409972,53110,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,34
+04M02,40409972,40415666,5694,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,35
+04M02,40415666,40523104,107438,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,36
+04M02,40523104,40667292,144188,FlowCool Pressure Dropped Below Limit,Flowcool leak,04_M02_train_fault_data.csv,37
+04M02,40667292,41977984,1310692,Flowcool leak,FlowCool Pressure Dropped Below Limit,04_M02_train_fault_data.csv,38
+05M01,4047836,4218770,170934,Flowcool leak,Flowcool leak,05_M01_train_fault_data.csv,3
+05M01,4218770,4290744,71974,Flowcool leak,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,4
+05M01,4290744,4291514,770,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,5
+05M01,4291514,4291666,152,FlowCool Pressure Dropped Below Limit,Flowcool leak,05_M01_train_fault_data.csv,6
+05M01,4291666,4316884,25218,Flowcool leak,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,7
+05M01,4316884,4320124,3240,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,8
+05M01,4320124,4345958,25834,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,9
+05M01,4345958,4348480,2522,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,10
+05M01,4348480,6197356,1848876,FlowCool Pressure Dropped Below Limit,Flowcool leak,05_M01_train_fault_data.csv,11
+05M01,6197356,12640220,6442864,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,05_M01_train_fault_data.csv,12
+05M01,12640220,13915168,1274948,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,13
+05M01,13915168,14289244,374076,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,05_M01_train_fault_data.csv,14
+05M01,14289244,19435224,5145980,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,15
+05M01,19435224,19521286,86062,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,16
+05M01,19521286,19524072,2786,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,17
+05M01,19524072,19527116,3044,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,18
+05M01,19527116,23076982,3549866,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,05_M01_train_fault_data.csv,19
+05M01,23076982,23265774,188792,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M01_train_fault_data.csv,20
+05M01,23265774,23470716,204942,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M01_train_fault_data.csv,21
+05M01,23470716,24514288,1043572,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,22
+05M01,24514288,24586892,72604,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,23
+05M01,24586892,27140612,2553720,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M01_train_fault_data.csv,24
+05M01,27140612,35019464,7878852,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,05_M01_train_fault_data.csv,25
+05M01,35019464,35992570,973106,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M01_train_fault_data.csv,26
+05M01,35992570,37409908,1417338,Flowcool Pressure Too High Check Flowcool Pump,Flowcool leak,05_M01_train_fault_data.csv,27
+05M01,37409908,37416000,6092,Flowcool leak,Flowcool leak,05_M01_train_fault_data.csv,28
+05M01,37416000,37417456,1456,Flowcool leak,Flowcool leak,05_M01_train_fault_data.csv,29
+05M02,3574572,5145048,1570476,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,05_M02_train_fault_data.csv,3
+05M02,5145048,5145048,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M02_train_fault_data.csv,4
+05M02,5145048,9741392,4596344,FlowCool Pressure Dropped Below Limit,Flowcool leak,05_M02_train_fault_data.csv,5
+05M02,9741392,14328602,4587210,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,6
+05M02,14328602,14666470,337868,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,05_M02_train_fault_data.csv,7
+05M02,14666470,16746750,2080280,FlowCool Pressure Dropped Below Limit,Flowcool leak,05_M02_train_fault_data.csv,8
+05M02,16746750,16748980,2230,Flowcool leak,Flowcool leak,05_M02_train_fault_data.csv,9
+05M02,16748980,16750714,1734,Flowcool leak,Flowcool leak,05_M02_train_fault_data.csv,10
+05M02,16750714,16756186,5472,Flowcool leak,Flowcool leak,05_M02_train_fault_data.csv,11
+05M02,16756186,23112688,6356502,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,12
+05M02,23112688,23209388,96700,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,13
+05M02,23209388,23326898,117510,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,14
+05M02,23326898,25441626,2114728,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,15
+05M02,25441626,26050762,609136,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,05_M02_train_fault_data.csv,16
+05M02,26050762,26067786,17024,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M02_train_fault_data.csv,17
+05M02,26067786,26080144,12358,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,05_M02_train_fault_data.csv,18
+05M02,26080144,26181840,101696,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,19
+05M02,26181840,26332768,150928,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,20
+05M02,26332768,35019960,8687192,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,21
+05M02,35019960,35635818,615858,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,22
+05M02,35635818,36023990,388172,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,23
+05M02,36023990,36256362,232372,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,24
+05M02,36256362,36717166,460804,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,25
+05M02,36717166,37013572,296406,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,26
+05M02,37013572,37148714,135142,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,27
+05M02,37148714,38610524,1461810,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,28
+05M02,38610524,39706772,1096248,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,05_M02_train_fault_data.csv,29
+06M01,14535028,17657306,3122278,Flowcool Pressure Too High Check Flowcool Pump,Flowcool leak,06_M01_train_fault_data.csv,3
+06M01,17657306,17663092,5786,Flowcool leak,Flowcool leak,06_M01_train_fault_data.csv,4
+06M01,17663092,17663528,436,Flowcool leak,Flowcool leak,06_M01_train_fault_data.csv,5
+06M01,17663528,29825800,12162272,Flowcool leak,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,6
+06M01,29825800,32436308,2610508,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,7
+06M01,32436308,34803234,2366926,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,8
+06M01,34803234,35159960,356726,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,9
+06M01,35159960,36862112,1702152,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,10
+06M01,36862112,37410600,548488,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,11
+06M01,37410600,38182536,771936,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,12
+06M01,38182536,40121218,1938682,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,13
+06M01,40121218,40121962,744,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,14
+06M01,40121962,40122590,628,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,06_M01_train_fault_data.csv,15
+06M01,40122590,40531052,408462,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,06_M01_train_fault_data.csv,16
+06M01,40531052,41084522,553470,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,06_M01_train_fault_data.csv,17
+06M02,4901228,4901228,0,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,3
+06M02,4901228,4925590,24362,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,4
+06M02,4925590,4925590,0,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,5
+06M02,4925590,6571124,1645534,Flowcool leak,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,6
+06M02,6571124,6705462,134338,FlowCool Pressure Dropped Below Limit,Flowcool leak,06_M02_train_fault_data.csv,7
+06M02,6705462,6724036,18574,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,8
+06M02,6724036,6747106,23070,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,9
+06M02,6747106,6760914,13808,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,10
+06M02,6760914,6777070,16156,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,11
+06M02,6777070,6794674,17604,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,12
+06M02,6794674,6796132,1458,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,13
+06M02,6796132,6815114,18982,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,14
+06M02,6815114,6854744,39630,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,15
+06M02,6854744,6875748,21004,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,16
+06M02,6875748,6896094,20346,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,17
+06M02,6896094,6911930,15836,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,18
+06M02,6911930,6925600,13670,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,19
+06M02,6925600,6926726,1126,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,20
+06M02,6926726,8016420,1089694,Flowcool leak,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,21
+06M02,8016420,8020318,3898,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,22
+06M02,8020318,8217550,197232,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,23
+06M02,8217550,8228658,11108,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,24
+06M02,8228658,8391206,162548,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,25
+06M02,8391206,8913330,522124,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,26
+06M02,8913330,8919886,6556,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,27
+06M02,8919886,8921562,1676,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,28
+06M02,8921562,8927188,5626,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,29
+06M02,8927188,8929162,1974,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,30
+06M02,8929162,8969138,39976,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,31
+06M02,8969138,8998608,29470,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,32
+06M02,8998608,8998616,8,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,06_M02_train_fault_data.csv,33
+06M02,8998616,9001568,2952,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,34
+06M02,9001568,9008888,7320,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,35
+06M02,9008888,9010842,1954,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,36
+06M02,9010842,9012212,1370,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,37
+06M02,9012212,9012248,36,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,06_M02_train_fault_data.csv,38
+06M02,9012248,9014048,1800,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,39
+06M02,9014048,9017146,3098,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,40
+06M02,9017146,9017152,6,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,06_M02_train_fault_data.csv,41
+06M02,9017152,9057166,40014,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,42
+06M02,9057166,9057266,100,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,06_M02_train_fault_data.csv,43
+06M02,9057266,13249964,4192698,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,44
+06M02,13249964,13250760,796,FlowCool Pressure Dropped Below Limit,Flowcool leak,06_M02_train_fault_data.csv,45
+06M02,13250760,13262678,11918,Flowcool leak,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,46
+06M02,13262678,13268944,6266,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,47
+06M02,13268944,13272442,3498,FlowCool Pressure Dropped Below Limit,Flowcool leak,06_M02_train_fault_data.csv,48
+06M02,13272442,13273378,936,Flowcool leak,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,49
+06M02,13273378,15452954,2179576,FlowCool Pressure Dropped Below Limit,Flowcool leak,06_M02_train_fault_data.csv,50
+06M02,15452954,15453882,928,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,51
+06M02,15453882,15456670,2788,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,52
+06M02,15456670,15458304,1634,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,53
+06M02,15458304,15459190,886,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,54
+06M02,15459190,15668688,209498,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,55
+06M02,15668688,29703908,14035220,Flowcool leak,Flowcool leak,06_M02_train_fault_data.csv,56
+06M02,29703908,29722982,19074,Flowcool leak,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,57
+06M02,29722982,29737974,14992,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,58
+06M02,29737974,29745170,7196,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,59
+06M02,29745170,29759516,14346,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,06_M02_train_fault_data.csv,60
+06M02,29759516,30863910,1104394,FlowCool Pressure Dropped Below Limit,Flowcool leak,06_M02_train_fault_data.csv,61
+06M02,30863910,40178998,9315088,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,06_M02_train_fault_data.csv,62
+07M01,12267516,13575890,1308374,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,3
+07M01,13575890,13577410,1520,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,4
+07M01,13577410,13599666,22256,FlowCool Pressure Dropped Below Limit,Flowcool leak,07_M01_train_fault_data.csv,5
+07M01,13599666,13652176,52510,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,6
+07M01,13652176,13663658,11482,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,7
+07M01,13663658,13729950,66292,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,8
+07M01,13729950,13792048,62098,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,9
+07M01,13792048,13829434,37386,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,10
+07M01,13829434,13830242,808,Flowcool leak,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,11
+07M01,13830242,13834562,4320,FlowCool Pressure Dropped Below Limit,Flowcool leak,07_M01_train_fault_data.csv,12
+07M01,13834562,13856038,21476,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,13
+07M01,13856038,14457514,601476,Flowcool leak,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,14
+07M01,14457514,14970682,513168,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,15
+07M01,14970682,20605838,5635156,FlowCool Pressure Dropped Below Limit,Flowcool leak,07_M01_train_fault_data.csv,16
+07M01,20605838,24694404,4088566,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,07_M01_train_fault_data.csv,17
+07M01,24694404,25270616,576212,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,18
+07M01,25270616,25271262,646,FlowCool Pressure Dropped Below Limit,Flowcool leak,07_M01_train_fault_data.csv,19
+07M01,25271262,25271910,648,Flowcool leak,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,20
+07M01,25271910,25276762,4852,FlowCool Pressure Dropped Below Limit,Flowcool leak,07_M01_train_fault_data.csv,21
+07M01,25276762,25280540,3778,Flowcool leak,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,22
+07M01,25280540,29525688,4245148,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,23
+07M01,29525688,29643162,117474,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,24
+07M01,29643162,29658122,14960,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,25
+07M01,29658122,29723478,65356,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,07_M01_train_fault_data.csv,26
+07M01,29723478,36682624,6959146,Flowcool Pressure Too High Check Flowcool Pump,Flowcool leak,07_M01_train_fault_data.csv,27
+07M01,36682624,36927786,245162,Flowcool leak,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,28
+07M01,36927786,37171630,243844,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,29
+07M01,37171630,38697550,1525920,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M01_train_fault_data.csv,30
+07M01,38697550,40257294,1559744,FlowCool Pressure Dropped Below Limit,Flowcool leak,07_M01_train_fault_data.csv,31
+07M01,40257294,40262444,5150,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,32
+07M01,40262444,40263632,1188,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,33
+07M01,40263632,40271332,7700,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,34
+07M01,40271332,40277306,5974,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,35
+07M01,40277306,40283254,5948,Flowcool leak,Flowcool leak,07_M01_train_fault_data.csv,36
+07M02,7601086,7603648,2562,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,07_M02_train_fault_data.csv,3
+07M02,7603648,7604258,610,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,07_M02_train_fault_data.csv,4
+07M02,7604258,24896468,17292210,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,07_M02_train_fault_data.csv,5
+07M02,24896468,36945770,12049302,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M02_train_fault_data.csv,6
+07M02,36945770,37150076,204306,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,07_M02_train_fault_data.csv,7
+08M01,5816876,6562542,745666,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,3
+08M01,6562542,6760814,198272,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,4
+08M01,6760814,7858308,1097494,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,5
+08M01,7858308,9157656,1299348,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,6
+08M01,9157656,11778912,2621256,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,7
+08M01,11778912,12276394,497482,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,8
+08M01,12276394,12631192,354798,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,9
+08M01,12631192,12800366,169174,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,10
+08M01,12800366,12868648,68282,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,11
+08M01,12868648,13117442,248794,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,12
+08M01,13117442,13120338,2896,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,13
+08M01,13120338,13147004,26666,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,14
+08M01,13147004,13220878,73874,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,15
+08M01,13220878,13224754,3876,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,16
+08M01,13224754,13230774,6020,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,17
+08M01,13230774,13255688,24914,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,18
+08M01,13255688,13263702,8014,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,19
+08M01,13263702,13949010,685308,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,20
+08M01,13949010,14652736,703726,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,21
+08M01,14652736,16454518,1801782,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,22
+08M01,16454518,16533394,78876,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,23
+08M01,16533394,16782112,248718,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,24
+08M01,16782112,17060832,278720,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,25
+08M01,17060832,17096438,35606,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,26
+08M01,17096438,17128588,32150,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,27
+08M01,17128588,17252738,124150,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,28
+08M01,17252738,18036650,783912,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,29
+08M01,18036650,18265194,228544,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,30
+08M01,18265194,18266068,874,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,31
+08M01,18266068,18266292,224,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,32
+08M01,18266292,18299396,33104,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,33
+08M01,18299396,18595848,296452,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,34
+08M01,18595848,18643116,47268,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,35
+08M01,18643116,19492170,849054,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,36
+08M01,19492170,19510074,17904,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,37
+08M01,19510074,19570768,60694,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,38
+08M01,19570768,19578792,8024,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,39
+08M01,19578792,19596426,17634,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,40
+08M01,19596426,19649020,52594,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,41
+08M01,19649020,19659746,10726,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,42
+08M01,19659746,19660094,348,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,43
+08M01,19660094,19693174,33080,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,44
+08M01,19693174,19703708,10534,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,45
+08M01,19703708,19715446,11738,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,46
+08M01,19715446,19734480,19034,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,47
+08M01,19734480,19757974,23494,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,48
+08M01,19757974,19768146,10172,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,49
+08M01,19768146,19844812,76666,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,50
+08M01,19844812,19865206,20394,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,51
+08M01,19865206,19867094,1888,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,52
+08M01,19867094,19872776,5682,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,53
+08M01,19872776,19878190,5414,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,54
+08M01,19878190,19898846,20656,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,55
+08M01,19898846,19915070,16224,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,56
+08M01,19915070,19936344,21274,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,57
+08M01,19936344,19955646,19302,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,58
+08M01,19955646,20092954,137308,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,59
+08M01,20092954,20318552,225598,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,60
+08M01,20318552,20330998,12446,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,61
+08M01,20330998,21216184,885186,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,62
+08M01,21216184,22055030,838846,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,63
+08M01,22055030,22260320,205290,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,64
+08M01,22260320,22301980,41660,FlowCool Pressure Dropped Below Limit,Flowcool leak,08_M01_train_fault_data.csv,65
+08M01,22301980,22304070,2090,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,66
+08M01,22304070,22306378,2308,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,67
+08M01,22306378,22727380,421002,Flowcool leak,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,68
+08M01,22727380,23268994,541614,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,69
+08M01,23268994,23472132,203138,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,70
+08M01,23472132,23918770,446638,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,71
+08M01,23918770,24012290,93520,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,72
+08M01,24012290,24176990,164700,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,73
+08M01,24176990,24867812,690822,FlowCool Pressure Dropped Below Limit,Flowcool leak,08_M01_train_fault_data.csv,74
+08M01,24867812,24869562,1750,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,75
+08M01,24869562,25566366,696804,Flowcool leak,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,76
+08M01,25566366,28440806,2874440,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,77
+08M01,28440806,28529416,88610,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,78
+08M01,28529416,28659782,130366,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,79
+08M01,28659782,29347562,687780,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,80
+08M01,29347562,29455966,108404,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,81
+08M01,29455966,29922820,466854,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,82
+08M01,29922820,30059018,136198,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,83
+08M01,30059018,30168020,109002,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,84
+08M01,30168020,30527198,359178,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,85
+08M01,30527198,30568226,41028,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,86
+08M01,30568226,30832522,264296,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,87
+08M01,30832522,31033882,201360,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,88
+08M01,31033882,32119896,1086014,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,89
+08M01,32119896,33115908,996012,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,90
+08M01,33115908,33144016,28108,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,91
+08M01,33144016,33439490,295474,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,92
+08M01,33439490,33462368,22878,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,93
+08M01,33462368,34955722,1493354,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,94
+08M01,34955722,35535170,579448,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,95
+08M01,35535170,36002702,467532,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,96
+08M01,36002702,36733642,730940,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,97
+08M01,36733642,36860974,127332,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,98
+08M01,36860974,37069768,208794,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,99
+08M01,37069768,37133684,63916,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,100
+08M01,37133684,37201474,67790,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,101
+08M01,37201474,37282142,80668,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,102
+08M01,37282142,37347462,65320,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,103
+08M01,37347462,37406998,59536,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,104
+08M01,37406998,38234812,827814,FlowCool Pressure Dropped Below Limit,Flowcool leak,08_M01_train_fault_data.csv,105
+08M01,38234812,38262064,27252,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,106
+08M01,38262064,38531128,269064,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,107
+08M01,38531128,38554680,23552,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,108
+08M01,38554680,38555612,932,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,109
+08M01,38555612,38555844,232,Flowcool leak,FlowCool Pressure Dropped Below Limit,08_M01_train_fault_data.csv,110
+08M01,38555844,38567190,11346,FlowCool Pressure Dropped Below Limit,Flowcool leak,08_M01_train_fault_data.csv,111
+08M01,38567190,38568720,1530,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,112
+08M01,38568720,38663140,94420,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,08_M01_train_fault_data.csv,113
+08M01,38663140,38712532,49392,Flowcool Pressure Too High Check Flowcool Pump,Flowcool leak,08_M01_train_fault_data.csv,114
+08M01,38712532,38753442,40910,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,115
+08M01,38753442,38790684,37242,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,116
+08M01,38790684,38812838,22154,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,117
+08M01,38812838,38897382,84544,Flowcool leak,Flowcool leak,08_M01_train_fault_data.csv,118
+08M02,19254254,19255042,788,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M02_train_fault_data.csv,3
+08M02,19255042,23066382,3811340,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M02_train_fault_data.csv,4
+08M02,23066382,23067124,742,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M02_train_fault_data.csv,5
+08M02,23067124,23069616,2492,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M02_train_fault_data.csv,6
+08M02,23069616,36011192,12941576,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,08_M02_train_fault_data.csv,7
+09M01,4279600,4822584,542984,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,3
+09M01,4822584,4822584,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,4
+09M01,4822584,4915488,92904,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,5
+09M01,4915488,4915488,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,6
+09M01,4915488,5478756,563268,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,7
+09M01,5478756,5478756,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,8
+09M01,5478756,7387060,1908304,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,9
+09M01,7387060,7439202,52142,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,10
+09M01,7439202,7447458,8256,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,11
+09M01,7447458,7729604,282146,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,12
+09M01,7729604,8079482,349878,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,13
+09M01,8079482,8458792,379310,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,14
+09M01,8458792,8767424,308632,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,15
+09M01,8767424,8888732,121308,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,16
+09M01,8888732,9047576,158844,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,17
+09M01,9047576,9155244,107668,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,18
+09M01,9155244,9586136,430892,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,19
+09M01,9586136,9977958,391822,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,20
+09M01,9977958,10573898,595940,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,21
+09M01,10573898,10669942,96044,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,22
+09M01,10669942,10795584,125642,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,23
+09M01,10795584,10879310,83726,FlowCool Pressure Dropped Below Limit,Flowcool leak,09_M01_train_fault_data.csv,24
+09M01,10879310,11135094,255784,Flowcool leak,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,25
+09M01,11135094,11170008,34914,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,26
+09M01,11170008,11172396,2388,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,27
+09M01,11172396,11176134,3738,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,28
+09M01,11176134,12393622,1217488,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,29
+09M01,12393622,13277436,883814,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,30
+09M01,13277436,13513822,236386,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,31
+09M01,13513822,13711616,197794,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,32
+09M01,13711616,14162792,451176,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,33
+09M01,14162792,14220828,58036,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,34
+09M01,14220828,14282796,61968,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,35
+09M01,14282796,14444880,162084,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,36
+09M01,14444880,15037374,592494,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,37
+09M01,15037374,15405368,367994,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,38
+09M01,15405368,15469234,63866,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,39
+09M01,15469234,16183458,714224,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,40
+09M01,16183458,16227824,44366,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,41
+09M01,16227824,16305958,78134,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,42
+09M01,16305958,16394426,88468,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,43
+09M01,16394426,16494612,100186,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,44
+09M01,16494612,16693482,198870,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,45
+09M01,16693482,16724276,30794,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,46
+09M01,16724276,16771156,46880,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,47
+09M01,16771156,17017160,246004,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,48
+09M01,17017160,17535348,518188,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,49
+09M01,17535348,17551516,16168,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,50
+09M01,17551516,17639472,87956,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,51
+09M01,17639472,17822072,182600,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,52
+09M01,17822072,17929086,107014,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,53
+09M01,17929086,18041396,112310,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,54
+09M01,18041396,18686152,644756,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,55
+09M01,18686152,20019560,1333408,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,56
+09M01,20019560,21030854,1011294,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,57
+09M01,21030854,22385590,1354736,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,58
+09M01,22385590,22445632,60042,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,59
+09M01,22445632,22565616,119984,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,60
+09M01,22565616,22619484,53868,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,61
+09M01,22619484,22733864,114380,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,62
+09M01,22733864,24114468,1380604,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,63
+09M01,24114468,24156586,42118,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,64
+09M01,24156586,24221104,64518,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,65
+09M01,24221104,24473044,251940,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,66
+09M01,24473044,24823014,349970,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,67
+09M01,24823014,25173644,350630,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,68
+09M01,25173644,25337646,164002,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,69
+09M01,25337646,26049678,712032,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,70
+09M01,26049678,26750650,700972,FlowCool Pressure Dropped Below Limit,Flowcool leak,09_M01_train_fault_data.csv,71
+09M01,26750650,26896966,146316,Flowcool leak,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,72
+09M01,26896966,27319520,422554,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,73
+09M01,27319520,27416028,96508,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,74
+09M01,27416028,27556748,140720,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,75
+09M01,27556748,27749488,192740,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,76
+09M01,27749488,27784912,35424,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,77
+09M01,27784912,28794094,1009182,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,78
+09M01,28794094,28811646,17552,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,79
+09M01,28811646,29100780,289134,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,80
+09M01,29100780,29247412,146632,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,81
+09M01,29247412,29299234,51822,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,82
+09M01,29299234,29347606,48372,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,83
+09M01,29347606,29510636,163030,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,84
+09M01,29510636,29812916,302280,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,85
+09M01,29812916,30043170,230254,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,86
+09M01,30043170,30365664,322494,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,87
+09M01,30365664,30494856,129192,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,88
+09M01,30494856,30510590,15734,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,89
+09M01,30510590,30701784,191194,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,90
+09M01,30701784,30822290,120506,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,91
+09M01,30822290,30867576,45286,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,92
+09M01,30867576,30896096,28520,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,93
+09M01,30896096,30947632,51536,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,94
+09M01,30947632,31314834,367202,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,95
+09M01,31314834,31544780,229946,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,96
+09M01,31544780,31643402,98622,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,97
+09M01,31643402,31688776,45374,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,98
+09M01,31688776,32211542,522766,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,99
+09M01,32211542,32323758,112216,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,100
+09M01,32323758,32479222,155464,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,101
+09M01,32479222,32730086,250864,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,102
+09M01,32730086,32731512,1426,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,103
+09M01,32731512,32765052,33540,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,104
+09M01,32765052,32773256,8204,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,105
+09M01,32773256,32775228,1972,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,106
+09M01,32775228,32781550,6322,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,107
+09M01,32781550,32966874,185324,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,108
+09M01,32966874,32986878,20004,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,109
+09M01,32986878,32989490,2612,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,110
+09M01,32989490,33008292,18802,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,111
+09M01,33008292,33136924,128632,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,112
+09M01,33136924,33377244,240320,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,113
+09M01,33377244,33458014,80770,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,114
+09M01,33458014,33473470,15456,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,115
+09M01,33473470,33517868,44398,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,116
+09M01,33517868,34749426,1231558,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,117
+09M01,34749426,34810854,61428,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,118
+09M01,34810854,34947840,136986,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,119
+09M01,34947840,34967278,19438,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,120
+09M01,34967278,35473370,506092,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,121
+09M01,35473370,35547158,73788,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,122
+09M01,35547158,35613186,66028,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,123
+09M01,35613186,35672428,59242,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,124
+09M01,35672428,35691266,18838,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,125
+09M01,35691266,35998274,307008,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,126
+09M01,35998274,36040930,42656,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,127
+09M01,36040930,36060004,19074,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,128
+09M01,36060004,36102720,42716,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,129
+09M01,36102720,36133672,30952,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,130
+09M01,36133672,36917050,783378,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,131
+09M01,36917050,37045722,128672,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,132
+09M01,37045722,37101534,55812,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,133
+09M01,37101534,37439264,337730,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,134
+09M01,37439264,37543064,103800,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M01_train_fault_data.csv,135
+09M01,37543064,37760686,217622,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,136
+09M01,37760686,37921006,160320,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,137
+09M01,37921006,38125542,204536,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,138
+09M01,38125542,38229026,103484,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,139
+09M01,38229026,39092384,863358,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,140
+09M01,39092384,39111794,19410,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,141
+09M01,39111794,39135814,24020,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,142
+09M01,39135814,39407830,272016,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,143
+09M01,39407830,39925012,517182,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,144
+09M01,39925012,40225118,300106,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,145
+09M01,40225118,40429844,204726,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,146
+09M01,40429844,40545314,115470,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,147
+09M01,40545314,40760524,215210,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,148
+09M01,40760524,41009748,249224,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,149
+09M01,41009748,41709688,699940,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,150
+09M01,41709688,41946338,236650,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,151
+09M01,41946338,42238626,292288,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,152
+09M01,42238626,42579112,340486,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,153
+09M01,42579112,42819514,240402,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M01_train_fault_data.csv,154
+09M02,3333718,3706822,373104,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,3
+09M02,3706822,3887150,180328,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,4
+09M02,3887150,5292816,1405666,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,09_M02_train_fault_data.csv,5
+09M02,5292816,5292816,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M02_train_fault_data.csv,6
+09M02,5292816,5601306,308490,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,7
+09M02,5601306,5601306,0,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,8
+09M02,5601306,5609322,8016,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,9
+09M02,5609322,5609322,0,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,10
+09M02,5609322,5611978,2656,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,11
+09M02,5611978,5611978,0,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,12
+09M02,5611978,5612710,732,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,13
+09M02,5612710,5612710,0,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,14
+09M02,5612710,5614926,2216,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,15
+09M02,5614926,5614926,0,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,16
+09M02,5614926,7888422,2273496,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,17
+09M02,7888422,8368352,479930,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,18
+09M02,8368352,8491944,123592,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,19
+09M02,8491944,10823794,2331850,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,09_M02_train_fault_data.csv,20
+09M02,10823794,10979744,155950,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M02_train_fault_data.csv,21
+09M02,10979744,10981668,1924,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M02_train_fault_data.csv,22
+09M02,10981668,11118582,136914,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M02_train_fault_data.csv,23
+09M02,11118582,11202406,83824,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,24
+09M02,11202406,11827146,624740,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,25
+09M02,11827146,12559166,732020,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,26
+09M02,12559166,12799754,240588,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,27
+09M02,12799754,17594918,4795164,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,28
+09M02,17594918,19431290,1836372,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,29
+09M02,19431290,19433448,2158,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,30
+09M02,19433448,20007736,574288,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,31
+09M02,20007736,21193930,1186194,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,32
+09M02,21193930,21261772,67842,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,33
+09M02,21261772,21263870,2098,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,34
+09M02,21263870,21264824,954,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,35
+09M02,21264824,21300084,35260,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,36
+09M02,21300084,21803140,503056,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,37
+09M02,21803140,22094606,291466,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,38
+09M02,22094606,22127992,33386,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,39
+09M02,22127992,22129112,1120,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,40
+09M02,22129112,22129544,432,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,41
+09M02,22129544,22132084,2540,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,42
+09M02,22132084,22133150,1066,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,43
+09M02,22133150,23077674,944524,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,44
+09M02,23077674,23918396,840722,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,45
+09M02,23918396,25925274,2006878,Flowcool Pressure Too High Check Flowcool Pump,FlowCool Pressure Dropped Below Limit,09_M02_train_fault_data.csv,46
+09M02,25925274,25945906,20632,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M02_train_fault_data.csv,47
+09M02,25945906,26021510,75604,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,09_M02_train_fault_data.csv,48
+09M02,26021510,26203694,182184,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,49
+09M02,26203694,26206882,3188,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,50
+09M02,26206882,26903568,696686,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,51
+09M02,26903568,27961676,1058108,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,52
+09M02,27961676,28280678,319002,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,53
+09M02,28280678,29971142,1690464,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,54
+09M02,29971142,30100486,129344,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,55
+09M02,30100486,30241012,140526,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,56
+09M02,30241012,35520404,5279392,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,57
+09M02,35520404,36028038,507634,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,58
+09M02,36028038,36320820,292782,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,59
+09M02,36320820,36799210,478390,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,60
+09M02,36799210,37007992,208782,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,61
+09M02,37007992,37180898,172906,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,62
+09M02,37180898,38643858,1462960,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,63
+09M02,38643858,38892524,248666,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,64
+09M02,38892524,40380944,1488420,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,65
+09M02,40380944,43136900,2755956,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,66
+09M02,43136900,43750072,613172,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,67
+09M02,43750072,44330638,580566,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,68
+09M02,44330638,45668024,1337386,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,69
+09M02,45668024,45669182,1158,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,70
+09M02,45669182,45670356,1174,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,71
+09M02,45670356,45678266,7910,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump,09_M02_train_fault_data.csv,72
+10M01,4557174,4557174,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,3
+10M01,4557174,4882164,324990,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,4
+10M01,4882164,4882164,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,5
+10M01,4882164,4975358,93194,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,6
+10M01,4975358,4975358,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,7
+10M01,4975358,4985722,10364,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,8
+10M01,4985722,4985722,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,9
+10M01,4985722,5004756,19034,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,10
+10M01,5004756,5004756,0,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,11
+10M01,5004756,8112294,3107538,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,12
+10M01,8112294,8157474,45180,FlowCool Pressure Dropped Below Limit,Flowcool leak,10_M01_train_fault_data.csv,13
+10M01,8157474,8364794,207320,Flowcool leak,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,14
+10M01,8364794,8376886,12092,FlowCool Pressure Dropped Below Limit,Flowcool leak,10_M01_train_fault_data.csv,15
+10M01,8376886,8438260,61374,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,16
+10M01,8438260,8439408,1148,Flowcool leak,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,17
+10M01,8439408,8497252,57844,FlowCool Pressure Dropped Below Limit,Flowcool leak,10_M01_train_fault_data.csv,18
+10M01,8497252,8499642,2390,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,19
+10M01,8499642,8500038,396,Flowcool leak,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,20
+10M01,8500038,8605164,105126,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,21
+10M01,8605164,8624476,19312,FlowCool Pressure Dropped Below Limit,Flowcool leak,10_M01_train_fault_data.csv,22
+10M01,8624476,8641054,16578,Flowcool leak,Flowcool Pressure Too High Check Flowcool Pump,10_M01_train_fault_data.csv,23
+10M01,8641054,8642504,1450,Flowcool Pressure Too High Check Flowcool Pump,Flowcool leak,10_M01_train_fault_data.csv,24
+10M01,8642504,8643474,970,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,25
+10M01,8643474,8646270,2796,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,26
+10M01,8646270,8656786,10516,Flowcool leak,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,27
+10M01,8656786,8657956,1170,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,28
+10M01,8657956,8658824,868,FlowCool Pressure Dropped Below Limit,Flowcool leak,10_M01_train_fault_data.csv,29
+10M01,8658824,8660048,1224,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,30
+10M01,8660048,8660778,730,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,31
+10M01,8660778,8677306,16528,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,32
+10M01,8677306,8810600,133294,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,33
+10M01,8810600,8817644,7044,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,34
+10M01,8817644,8833072,15428,Flowcool leak,Flowcool leak,10_M01_train_fault_data.csv,35
+10M01,8833072,35471140,26638068,Flowcool leak,FlowCool Pressure Dropped Below Limit,10_M01_train_fault_data.csv,36
+10M02,27325070,27410422,85352,FlowCool Pressure Dropped Below Limit,FlowCool Pressure Dropped Below Limit,10_M02_train_fault_data.csv,3

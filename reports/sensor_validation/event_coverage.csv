@@ -1,0 +1,1212 @@
+Tool,fault_name,time,in_range,pre_rows,pre_span,window_start_in_range,window_coverage
+01M01,FlowCool Pressure Dropped Below Limit,6533184,True,432,3596.0,True,True
+01M01,FlowCool Pressure Dropped Below Limit,8286500,True,660,3596.0,True,True
+01M01,FlowCool Pressure Dropped Below Limit,8627086,True,263,1160.0,True,False
+01M01,FlowCool Pressure Dropped Below Limit,8697340,True,445,3596.0,True,True
+01M01,FlowCool Pressure Dropped Below Limit,8971484,True,575,3388.0,True,True
+01M01,Flowcool Pressure Too High Check Flowcool Pump,12638238,True,0,0.0,True,False
+01M01,FlowCool Pressure Dropped Below Limit,12828064,True,180,716.0,True,False
+01M01,FlowCool Pressure Dropped Below Limit,14026692,True,372,1596.0,True,False
+01M01,FlowCool Pressure Dropped Below Limit,15827488,True,39,152.0,True,False
+01M01,Flowcool Pressure Too High Check Flowcool Pump,18573644,True,0,0.0,True,False
+01M01,Flowcool leak,20174938,True,570,2276.0,True,False
+01M01,Flowcool Pressure Too High Check Flowcool Pump,26098948,True,900,3596.0,True,True
+01M01,FlowCool Pressure Dropped Below Limit,31212736,True,0,0.0,True,False
+01M01,FlowCool Pressure Dropped Below Limit,31229684,True,0,0.0,True,False
+01M01,FlowCool Pressure Dropped Below Limit,31231428,True,0,0.0,True,False
+01M01,Flowcool Pressure Too High Check Flowcool Pump,39525730,True,226,3596.0,True,True
+01M01,FlowCool Pressure Dropped Below Limit,40082846,True,701,3596.0,True,True
+01M01,Flowcool Pressure Too High Check Flowcool Pump,40567036,True,305,1216.0,True,False
+01M01,FlowCool Pressure Dropped Below Limit,42056638,True,138,548.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,3907068,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,3915070,True,900,3596.0,True,True
+01M02,Flowcool leak,3916348,True,900,3596.0,True,True
+01M02,Flowcool leak,3916822,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,3918310,True,864,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,3937494,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,3940162,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,3958954,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,3962388,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,3968458,True,900,3596.0,True,True
+01M02,Flowcool leak,3970900,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,3971424,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,3973348,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,8059958,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,8072052,True,391,3316.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,8105258,True,0,0.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,8123030,True,183,728.0,True,False
+01M02,Flowcool leak,8124434,True,534,2132.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,8124986,True,672,2684.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,8125434,True,784,3132.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,8127122,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,8132488,True,871,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,8136008,True,900,3596.0,True,True
+01M02,Flowcool leak,9273100,True,900,3596.0,True,True
+01M02,Flowcool leak,9512452,True,0,0.0,True,False
+01M02,Flowcool leak,9518094,True,694,2772.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12430304,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12435366,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12436028,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12437254,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12437984,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12439690,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12441326,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12514660,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12537920,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12580330,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12582892,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12588600,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12611078,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12619524,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12625938,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12635510,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12636486,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12649872,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12669900,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12681116,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12682450,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12684886,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12686968,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12688802,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12690282,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12692262,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,12699926,True,0,0.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,18057900,True,900,3596.0,True,True
+01M02,Flowcool leak,18061382,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,18074648,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,18097634,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,18108796,True,872,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,18139306,True,860,3596.0,True,True
+01M02,Flowcool leak,18142434,True,524,2092.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,21905340,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,22073942,True,870,3596.0,True,True
+01M02,Flowcool Pressure Too High Check Flowcool Pump,22075508,True,900,3596.0,True,True
+01M02,Flowcool Pressure Too High Check Flowcool Pump,22086924,True,0,0.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,22575152,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,22779500,True,899,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,22793870,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,22828180,True,900,3596.0,True,True
+01M02,Flowcool Pressure Too High Check Flowcool Pump,23082772,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,23086028,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,23087158,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,23087648,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,23348690,True,0,0.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,23358554,True,0,0.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,23630826,True,900,3596.0,True,True
+01M02,Flowcool Pressure Too High Check Flowcool Pump,23801808,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,23834942,True,0,0.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,24521052,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,25002546,True,636,3596.0,True,True
+01M02,Flowcool leak,25025806,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,25136976,True,321,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,25636030,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,25637472,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,28029182,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,28113782,True,540,2156.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,28126778,True,900,3596.0,True,True
+01M02,Flowcool Pressure Too High Check Flowcool Pump,31425558,True,177,704.0,True,False
+01M02,Flowcool Pressure Too High Check Flowcool Pump,31427350,True,625,2496.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,31427832,True,746,2980.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,35337042,True,630,2516.0,True,False
+01M02,Flowcool leak,35339442,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,35479832,True,663,3596.0,True,True
+01M02,Flowcool leak,35479998,True,663,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,35667758,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,35672222,True,495,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,36022710,True,332,1324.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,36132446,True,190,756.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,36134280,True,648,2588.0,True,False
+01M02,Flowcool leak,36138198,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,36140216,True,567,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,36145322,True,900,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,36402870,True,900,3596.0,True,True
+01M02,Flowcool leak,36408260,True,900,3596.0,True,True
+01M02,Flowcool leak,36575444,True,873,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,36712164,True,667,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,36765886,True,653,3596.0,True,True
+01M02,Flowcool leak,36767406,True,657,2628.0,True,False
+01M02,FlowCool Pressure Dropped Below Limit,36777452,True,839,3596.0,True,True
+01M02,FlowCool Pressure Dropped Below Limit,36797152,True,874,3596.0,True,True
+02M01,FlowCool Pressure Dropped Below Limit,9557348,True,252,1188.0,True,False
+02M01,Flowcool Pressure Too High Check Flowcool Pump,13448760,True,879,3506.0,True,True
+02M01,FlowCool Pressure Dropped Below Limit,13705094,True,621,3536.0,True,True
+02M01,Flowcool Pressure Too High Check Flowcool Pump,18222670,True,0,0.0,True,False
+02M01,FlowCool Pressure Dropped Below Limit,18462150,True,383,3596.0,True,True
+02M01,FlowCool Pressure Dropped Below Limit,24224028,True,619,3596.0,True,True
+02M01,FlowCool Pressure Dropped Below Limit,24228672,True,334,1332.0,True,False
+02M01,Flowcool leak,24228872,True,284,1132.0,True,False
+02M01,FlowCool Pressure Dropped Below Limit,24229428,True,145,576.0,True,False
+02M01,FlowCool Pressure Dropped Below Limit,24244486,True,762,3596.0,True,True
+02M01,Flowcool Pressure Too High Check Flowcool Pump,25020144,True,547,2640.0,True,False
+02M01,Flowcool Pressure Too High Check Flowcool Pump,25022344,True,111,440.0,True,False
+02M01,Flowcool Pressure Too High Check Flowcool Pump,25028016,True,0,0.0,True,False
+02M01,Flowcool Pressure Too High Check Flowcool Pump,25226812,True,854,3596.0,True,True
+02M01,FlowCool Pressure Dropped Below Limit,27575274,True,762,3404.0,True,True
+02M01,FlowCool Pressure Dropped Below Limit,28955794,True,392,1748.0,True,False
+02M01,Flowcool Pressure Too High Check Flowcool Pump,29732852,True,855,3596.0,True,True
+02M02,Flowcool Pressure Too High Check Flowcool Pump,3793470,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,5172326,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,5924648,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,8739134,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,9157434,True,0,0.0,True,False
+02M02,FlowCool Pressure Dropped Below Limit,9158332,True,177,704.0,True,False
+02M02,FlowCool Pressure Dropped Below Limit,9842902,True,709,3596.0,True,True
+02M02,Flowcool Pressure Too High Check Flowcool Pump,11143890,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,11347536,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,12614954,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,13516514,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,14293474,True,716,3596.0,True,True
+02M02,FlowCool Pressure Dropped Below Limit,14372758,True,0,0.0,True,False
+02M02,FlowCool Pressure Dropped Below Limit,14376672,True,0,0.0,True,False
+02M02,FlowCool Pressure Dropped Below Limit,14382020,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,14421672,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,15048382,True,526,2100.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,16756608,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,17449270,True,900,3596.0,True,True
+02M02,Flowcool Pressure Too High Check Flowcool Pump,18244116,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,18455880,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,21206288,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,21690196,True,718,3596.0,True,True
+02M02,Flowcool Pressure Too High Check Flowcool Pump,24301142,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,25485676,True,869,3596.0,True,True
+02M02,Flowcool Pressure Too High Check Flowcool Pump,27586950,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,28672758,True,235,936.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,29101062,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,30731654,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,32853538,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,36003472,True,0,0.0,True,False
+02M02,Flowcool Pressure Too High Check Flowcool Pump,36074426,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,3396958,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,3534642,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,3990592,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,4013508,True,387,1704.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,4029158,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,4086990,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,4094310,True,419,1748.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,4591098,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,5087594,True,827,3596.0,True,True
+03M01,FlowCool Pressure Dropped Below Limit,5942594,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,6370172,True,280,1116.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,6402642,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,6430752,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,6446460,True,558,3300.0,True,True
+03M01,FlowCool Pressure Dropped Below Limit,8202228,True,873,3596.0,True,True
+03M01,FlowCool Pressure Dropped Below Limit,9151826,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,9169980,True,500,2920.0,True,True
+03M01,FlowCool Pressure Dropped Below Limit,9250144,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,9257184,True,285,1240.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,9268054,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,9275742,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,9288290,True,247,1152.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,9291170,True,343,1370.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,9408744,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,9417328,True,900,3596.0,True,True
+03M01,Flowcool Pressure Too High Check Flowcool Pump,9601872,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,9729970,True,283,1236.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,9732344,True,384,3596.0,True,True
+03M01,FlowCool Pressure Dropped Below Limit,9906576,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,9918394,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,9980532,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,9984170,True,538,2148.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,10563966,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,10571724,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,10892430,True,361,1620.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,11139670,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,11151244,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,11226036,True,245,3596.0,True,True
+03M01,Flowcool Pressure Too High Check Flowcool Pump,11492880,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,14110128,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,14130966,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,14164142,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,14485362,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,14529034,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,14627086,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,14704314,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,14738932,True,265,1160.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,15134836,True,35,136.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,15243896,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,15321190,True,0,0.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,15325162,True,599,2392.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,15341970,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,15444770,True,123,488.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,15716062,True,218,868.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,15750054,True,620,2684.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,15911644,True,20,76.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,16138330,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,16185510,True,171,680.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,16305716,True,874,3492.0,True,True
+03M01,FlowCool Pressure Dropped Below Limit,16332614,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,16334758,True,140,556.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,16335678,True,196,780.0,True,False
+03M01,FlowCool Pressure Dropped Below Limit,19463242,True,789,3596.0,True,True
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23081692,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23083508,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23084620,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23087462,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23088894,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23103938,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23107064,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23107698,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23110488,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23117980,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23119928,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23120894,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,23121864,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,28404908,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,28405810,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,28669010,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,28669548,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,30585776,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,30586248,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,30701606,True,900,3596.0,True,True
+03M01,Flowcool Pressure Too High Check Flowcool Pump,30702522,True,900,3596.0,True,True
+03M01,Flowcool Pressure Too High Check Flowcool Pump,30703620,True,900,3596.0,True,True
+03M01,FlowCool Pressure Dropped Below Limit,34984004,True,523,2088.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,35070206,True,815,3596.0,True,True
+03M01,Flowcool Pressure Too High Check Flowcool Pump,35072704,True,301,1452.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,35074374,True,0,0.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,37549642,True,582,2324.0,True,False
+03M01,Flowcool Pressure Too High Check Flowcool Pump,39968588,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,3326152,True,508,2192.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,3780688,True,692,2920.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,3961378,True,795,3264.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,4528896,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,4984318,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,5076390,True,572,2524.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,5120600,True,647,3312.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,5128078,True,900,3596.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,6040840,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,6052526,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,6187286,True,811,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,6208070,True,621,2556.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,6239880,True,790,3432.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,6623116,True,654,2768.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,6672860,True,524,2272.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,6784386,True,664,2800.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,6913658,True,525,2176.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,7293438,True,616,2772.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,7672018,True,770,3308.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,7727590,True,736,3360.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,7837014,True,654,2944.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,8019242,True,614,2528.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,8147834,True,801,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,8182504,True,793,3400.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,8382618,True,782,3352.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,8431318,True,575,2460.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,8444082,True,814,3464.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,8612686,True,539,2428.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,9049736,True,812,3560.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,9179914,True,819,3348.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,9188844,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,9287446,True,803,3458.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,9367002,True,527,2334.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,9433324,True,822,3524.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,9481532,True,522,3384.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,9499362,True,798,3428.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,9639524,True,900,3596.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,9836736,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,10003096,True,799,3356.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,10047398,True,637,2776.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,10056792,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,10226996,True,629,2768.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,10298636,True,661,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,10308348,True,593,2368.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,10445560,True,578,2476.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,10614040,True,508,2180.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,10855220,True,621,2780.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,11171470,True,642,2732.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,11203868,True,553,2364.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,11283816,True,783,3296.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,11315156,True,673,2930.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,11432132,True,694,2844.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,11911880,True,762,3360.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,12218694,True,578,2476.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,12259164,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,12365870,True,800,3516.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,12630224,True,742,3200.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,12696448,True,363,1556.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,12908506,True,734,3160.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,13198200,True,655,2856.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,13374204,True,363,1524.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,13470176,True,519,2072.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,13616410,True,545,3160.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,13903394,True,487,2188.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,14448376,True,839,3596.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,14679356,True,724,2892.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,14833638,True,605,2644.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,15137166,True,530,2188.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,15225580,True,723,3052.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,15265172,True,797,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,15386092,True,824,3524.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,15553226,True,681,2964.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,15662620,True,858,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,16261610,True,287,1260.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,16375584,True,324,1368.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,16761984,True,712,3064.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,16859164,True,482,2080.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,16949558,True,702,3528.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,17132248,True,850,3556.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,17188274,True,837,3588.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,17445360,True,804,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,17555544,True,808,3332.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,17876634,True,777,3192.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,18245834,True,523,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,18385284,True,158,628.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,18469642,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,18494164,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,18537860,True,408,1876.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,18585458,True,243,1044.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,18644314,True,294,1340.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,18840778,True,685,2812.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,18928912,True,507,2172.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,18992298,True,743,3216.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,19120120,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,19189284,True,492,2196.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,19212532,True,862,3520.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,19246094,True,814,3404.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,19435902,True,703,2978.0,True,True
+03M02,Flowcool leak,19535422,True,791,3408.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,19537706,True,819,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,19556864,True,360,1592.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,19641694,True,795,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,19660930,True,446,1936.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,19807066,True,822,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,19902638,True,311,1316.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,20000140,True,701,3436.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20013840,True,856,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20059334,True,835,3580.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20105938,True,697,3016.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20139054,True,478,2132.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,20204422,True,784,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20288634,True,622,2724.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,20357252,True,49,192.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,20391848,True,395,1652.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,20518336,True,676,2948.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20549668,True,410,1716.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,20679052,True,786,3364.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20752200,True,548,2356.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,20766592,True,598,3188.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20791620,True,837,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20824656,True,691,3064.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20865304,True,770,3232.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,20976582,True,358,1504.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,20994000,True,775,3342.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,21087164,True,821,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,21188404,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,21215552,True,386,1728.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,21277176,True,633,2784.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,21289758,True,323,1288.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,21356292,True,773,3324.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,21537920,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,21637312,True,370,1552.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,21662924,True,881,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,21683454,True,792,3316.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,21863024,True,792,3408.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,21961218,True,298,1264.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,21999208,True,845,3528.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,22149766,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,22168000,True,690,3592.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,22248054,True,841,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,22421116,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,22480712,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,22564472,True,800,3596.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,22703102,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,22758310,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,23080802,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23098522,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,23291380,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23481306,True,744,3124.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,23493104,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23528964,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23565790,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23692476,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23707852,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23717738,True,247,984.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23728444,True,562,2496.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23737016,True,343,1772.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23757230,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23783744,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23797950,True,423,1764.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23808410,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23835362,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,23901980,True,603,2636.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,23903554,True,248,1064.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,23951900,True,484,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,24055316,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24056506,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24077942,True,135,536.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24079010,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24166286,True,50,196.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24167262,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24252242,True,136,540.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24289136,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24289948,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24297924,True,197,864.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24298748,True,11,40.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24339830,True,291,1240.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24352610,True,129,512.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24418864,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24419660,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24432486,True,398,1752.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24433216,True,237,1024.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24443674,True,287,1300.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24444392,True,127,580.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24469536,True,407,1840.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24470258,True,227,1120.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24497682,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24498478,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24535154,True,144,572.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24535914,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24576194,True,538,2316.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24675716,True,539,3292.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24676498,True,383,2580.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24738256,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24757960,True,713,3004.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24758816,True,518,2148.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24839056,True,508,2188.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24927818,True,442,2008.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24928632,True,263,1124.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24965838,True,163,728.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,24966660,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,24982382,True,415,1872.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,25102526,True,418,1744.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,25103410,True,216,860.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,25140218,True,521,2976.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,25141112,True,351,1544.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,25276016,True,86,340.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,25293448,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,25431074,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],25467346,True,796,3596.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,25471368,True,465,1856.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,25522388,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,25603022,True,715,3012.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,25847378,True,316,1340.0,True,False
+03M02,Flowcool leak,26048712,True,820,3596.0,True,True
+03M02,Flowcool leak,26051738,True,165,656.0,True,False
+03M02,Flowcool leak,26052292,True,27,104.0,True,False
+03M02,Flowcool leak,26059006,True,0,0.0,True,False
+03M02,Flowcool leak,26072970,True,0,0.0,True,False
+03M02,Flowcool leak,26073686,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26100074,True,232,924.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26169696,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26440768,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26513864,True,463,1928.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26565710,True,97,384.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26625700,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26667314,True,496,2132.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26765924,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26869716,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,26896164,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27006270,True,633,2768.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27122650,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27162974,True,164,652.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27205960,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27462212,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27520930,True,824,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,27604156,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27679374,True,383,1604.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,27886310,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27886398,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27899460,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27922370,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27954278,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,27980956,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,27990060,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28016390,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28042716,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28127658,True,506,2176.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28528564,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28631674,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28667932,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28783026,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28897512,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28933158,True,0,0.0,True,False
+03M02,Flowcool leak,28938358,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28946852,True,0,0.0,True,False
+03M02,Flowcool leak,28948550,True,84,332.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,28980408,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,29002000,True,246,1056.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29038130,True,457,2100.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29046530,True,551,2352.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29115806,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29136736,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29247078,True,63,248.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29262170,True,11,40.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29318316,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29345754,True,591,2520.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,29615618,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,29766942,True,626,2652.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29866524,True,148,588.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29891654,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,29964526,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,30115764,True,407,1704.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,30142594,True,862,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,30173148,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,30280108,True,327,1392.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,30378646,True,436,1904.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,30783876,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,30818460,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31009562,True,314,1332.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31060274,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31075446,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31270284,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31284862,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31337798,True,446,1884.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31406414,True,537,2228.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31496376,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31559598,True,818,3592.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,31608418,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31773832,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31888714,True,191,760.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,31943100,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32033108,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32121574,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32130558,True,564,2252.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32301544,True,663,2800.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32362424,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32386542,True,555,2378.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32412224,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32464108,True,137,544.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32481638,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32624526,True,634,2620.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32637946,True,595,2544.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32812676,True,346,1456.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32845886,True,2,4.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,32891358,True,462,3368.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,32908380,True,722,3044.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,33109690,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,33292958,True,817,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,33397540,True,824,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,33470894,True,468,1944.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,34874274,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,34902458,True,900,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,34945770,True,756,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,34952804,True,772,3404.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,35006446,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,35071506,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,35103954,True,346,1460.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,35135358,True,853,3408.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,35152452,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,35165868,True,183,728.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,35179684,True,560,2444.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,35207486,True,466,2076.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,35293090,True,805,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,35416716,True,295,1328.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,35476948,True,453,2840.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,35516362,True,808,3536.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,35614502,True,827,3456.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,35634688,True,804,3596.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,35990812,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,36019986,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,36049948,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,36097914,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,36172306,True,524,2260.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,36282140,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,36491642,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,36560146,True,577,2532.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,36618598,True,840,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,36757494,True,266,1060.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,36792880,True,797,3596.0,True,True
+03M02,FlowCool Pressure Dropped Below Limit,36828140,True,648,2748.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,37163352,True,461,2004.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,37247336,True,630,2836.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,37266084,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,37344276,True,390,1712.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,37406492,True,0,0.0,True,False
+03M02,FlowCool Pressure Dropped Below Limit,37500934,True,171,756.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,37568158,True,887,3544.0,True,True
+03M02,Flowcool Pressure Too High Check Flowcool Pump,39694648,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,40012102,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,40619552,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,41424508,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,42277232,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,42365550,True,0,0.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,42399838,True,66,260.0,True,False
+03M02,Flowcool Pressure Too High Check Flowcool Pump,43992410,True,0,0.0,True,False
+04M01,Flowcool Pressure Too High Check Flowcool Pump,3897904,True,900,3596.0,True,True
+04M01,FlowCool Pressure Dropped Below Limit,8199788,True,439,1892.0,True,False
+04M01,FlowCool Pressure Dropped Below Limit,8274798,True,805,3596.0,True,True
+04M01,Flowcool leak,8275306,True,805,3596.0,True,True
+04M01,FlowCool Pressure Dropped Below Limit,8415478,True,671,3596.0,True,True
+04M01,FlowCool Pressure Dropped Below Limit,8420476,True,802,3596.0,True,True
+04M01,FlowCool Pressure Dropped Below Limit,30683382,True,233,928.0,True,False
+04M01,FlowCool Pressure Dropped Below Limit,30697570,True,0,0.0,True,False
+04M01,FlowCool Pressure Dropped Below Limit,30703278,True,0,0.0,True,False
+04M02,Flowcool Pressure Too High Check Flowcool Pump,3926292,False,0,0.0,False,False
+04M02,Flowcool leak,23846800,True,900,3596.0,True,True
+04M02,Flowcool leak,24337110,True,877,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,28324130,True,900,3596.0,True,True
+04M02,Flowcool leak,28325090,True,886,3540.0,True,True
+04M02,Flowcool leak,28972818,True,0,0.0,True,False
+04M02,Flowcool leak,31685914,True,900,3596.0,True,True
+04M02,Flowcool leak,31732512,True,0,0.0,True,False
+04M02,Flowcool leak,31737548,True,0,0.0,True,False
+04M02,Flowcool leak,32336080,True,876,3596.0,True,True
+04M02,Flowcool leak,32340854,True,767,3596.0,True,True
+04M02,Flowcool leak,32350284,True,540,3596.0,True,True
+04M02,Flowcool leak,32366510,True,476,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,33155122,True,0,0.0,True,False
+04M02,FlowCool Pressure Dropped Below Limit,33172344,True,900,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,33176862,True,876,3596.0,True,True
+04M02,Flowcool leak,33178868,True,734,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,33189800,True,876,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,33195542,True,0,0.0,True,False
+04M02,Flowcool leak,35997938,True,385,3140.0,True,True
+04M02,Flowcool leak,36001748,True,810,3236.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,37152114,True,877,3504.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,37156970,True,878,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,37157412,True,855,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,38366680,True,900,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,38367112,True,900,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,39934072,True,509,2032.0,True,False
+04M02,FlowCool Pressure Dropped Below Limit,40046050,True,900,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,40171344,True,744,2972.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,40188902,True,801,3200.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,40323398,True,0,0.0,True,False
+04M02,FlowCool Pressure Dropped Below Limit,40356862,True,900,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,40409972,True,900,3596.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,40415666,True,872,3572.0,True,True
+04M02,FlowCool Pressure Dropped Below Limit,40523104,True,666,2660.0,True,False
+04M02,Flowcool leak,40667292,True,0,0.0,True,False
+04M02,FlowCool Pressure Dropped Below Limit,41977984,True,885,3536.0,True,True
+05M01,Flowcool leak,4047836,True,718,3576.0,True,True
+05M01,Flowcool leak,4218770,True,720,3438.0,True,True
+05M01,FlowCool Pressure Dropped Below Limit,4290744,True,0,0.0,True,False
+05M01,FlowCool Pressure Dropped Below Limit,4291514,True,0,0.0,True,False
+05M01,Flowcool leak,4291666,True,0,0.0,True,False
+05M01,FlowCool Pressure Dropped Below Limit,4316884,True,681,3596.0,True,True
+05M01,FlowCool Pressure Dropped Below Limit,4320124,True,826,3596.0,True,True
+05M01,FlowCool Pressure Dropped Below Limit,4345958,True,0,0.0,True,False
+05M01,FlowCool Pressure Dropped Below Limit,4348480,True,0,0.0,True,False
+05M01,Flowcool leak,6197356,True,794,3596.0,True,True
+05M01,Flowcool Pressure Too High Check Flowcool Pump,12640220,True,0,0.0,True,False
+05M01,FlowCool Pressure Dropped Below Limit,13915168,True,761,3596.0,True,True
+05M01,Flowcool Pressure Too High Check Flowcool Pump,14289244,True,0,0.0,True,False
+05M01,FlowCool Pressure Dropped Below Limit,19435224,True,541,3580.0,True,True
+05M01,FlowCool Pressure Dropped Below Limit,19521286,True,640,3476.0,True,True
+05M01,FlowCool Pressure Dropped Below Limit,19524072,True,473,2024.0,True,False
+05M01,FlowCool Pressure Dropped Below Limit,19527116,True,0,0.0,True,False
+05M01,Flowcool Pressure Too High Check Flowcool Pump,23076982,True,0,0.0,True,False
+05M01,Flowcool Pressure Too High Check Flowcool Pump,23265774,True,0,0.0,True,False
+05M01,Flowcool Pressure Too High Check Flowcool Pump,23470716,True,0,0.0,True,False
+05M01,FlowCool Pressure Dropped Below Limit,24514288,True,772,3514.0,True,True
+05M01,FlowCool Pressure Dropped Below Limit,24586892,True,720,3292.0,True,True
+05M01,FlowCool Pressure Dropped Below Limit,27140612,True,730,3496.0,True,True
+05M01,Flowcool Pressure Too High Check Flowcool Pump,35019464,True,0,0.0,True,False
+05M01,Flowcool Pressure Too High Check Flowcool Pump,35992570,True,0,0.0,True,False
+05M01,Flowcool leak,37409908,True,3,8.0,True,False
+05M01,Flowcool leak,37416000,True,900,3596.0,True,True
+05M01,Flowcool leak,37417456,True,589,2352.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,3574572,True,0,0.0,True,False
+05M02,FlowCool Pressure Dropped Below Limit,5145048,True,277,1226.0,True,False
+05M02,Flowcool leak,9741392,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,14328602,True,900,3596.0,True,True
+05M02,FlowCool Pressure Dropped Below Limit,14666470,True,204,1028.0,True,False
+05M02,Flowcool leak,16746750,True,0,0.0,True,False
+05M02,Flowcool leak,16748980,True,0,0.0,True,False
+05M02,Flowcool leak,16750714,True,0,0.0,True,False
+05M02,Flowcool leak,16756186,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,23112688,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,23209388,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,23326898,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,25441626,True,0,0.0,True,False
+05M02,FlowCool Pressure Dropped Below Limit,26050762,True,0,0.0,True,False
+05M02,FlowCool Pressure Dropped Below Limit,26067786,True,133,528.0,True,False
+05M02,FlowCool Pressure Dropped Below Limit,26080144,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,26181840,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,26332768,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,35019960,True,2,4.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,35635818,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,36023990,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,36256362,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,36717166,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,37013572,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,37148714,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,38610524,True,0,0.0,True,False
+05M02,Flowcool Pressure Too High Check Flowcool Pump,39706772,True,0,0.0,True,False
+06M01,Flowcool Pressure Too High Check Flowcool Pump,14535028,True,0,0.0,True,False
+06M01,Flowcool leak,17657306,True,0,0.0,True,False
+06M01,Flowcool leak,17663092,True,0,0.0,True,False
+06M01,Flowcool leak,17663528,True,18,68.0,True,False
+06M01,FlowCool Pressure Dropped Below Limit,29825800,True,900,3596.0,True,True
+06M01,FlowCool Pressure Dropped Below Limit,32436308,True,0,0.0,True,False
+06M01,FlowCool Pressure Dropped Below Limit,34803234,True,0,0.0,True,False
+06M01,FlowCool Pressure Dropped Below Limit,35159960,True,0,0.0,True,False
+06M01,FlowCool Pressure Dropped Below Limit,36862112,True,0,0.0,True,False
+06M01,FlowCool Pressure Dropped Below Limit,37410600,True,0,0.0,True,False
+06M01,FlowCool Pressure Dropped Below Limit,38182536,True,0,0.0,True,False
+06M01,FlowCool Pressure Dropped Below Limit,40121218,True,329,1596.0,True,False
+06M01,FlowCool Pressure Dropped Below Limit,40121962,True,177,852.0,True,False
+06M01,Flowcool Pressure Too High Check Flowcool Pump,40122590,True,57,224.0,True,False
+06M01,FlowCool Pressure Dropped Below Limit,40531052,True,0,0.0,True,False
+06M01,Flowcool Pressure Too High Check Flowcool Pump,41084522,True,299,1300.0,True,False
+06M02,Flowcool leak,4901228,True,864,3596.0,True,True
+06M02,Flowcool leak,4925590,True,864,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,6571124,True,877,3504.0,True,True
+06M02,Flowcool leak,6705462,True,900,3596.0,True,True
+06M02,Flowcool leak,6724036,True,900,3596.0,True,True
+06M02,Flowcool leak,6747106,True,851,3400.0,True,True
+06M02,Flowcool leak,6760914,True,900,3596.0,True,True
+06M02,Flowcool leak,6777070,True,872,3484.0,True,True
+06M02,Flowcool leak,6794674,True,900,3596.0,True,True
+06M02,Flowcool leak,6796132,True,690,2900.0,True,True
+06M02,Flowcool leak,6815114,True,900,3596.0,True,True
+06M02,Flowcool leak,6854744,True,900,3596.0,True,True
+06M02,Flowcool leak,6875748,True,900,3596.0,True,True
+06M02,Flowcool leak,6896094,True,900,3596.0,True,True
+06M02,Flowcool leak,6911930,True,900,3596.0,True,True
+06M02,Flowcool leak,6925600,True,495,1976.0,True,False
+06M02,Flowcool leak,6926726,True,776,3100.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,8016420,True,741,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,8020318,True,900,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,8217550,True,43,168.0,True,False
+06M02,FlowCool Pressure Dropped Below Limit,8228658,True,863,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,8391206,True,0,0.0,True,False
+06M02,FlowCool Pressure Dropped Below Limit,8913330,True,831,3594.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,8919886,True,883,3528.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,8921562,True,819,3412.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,8927188,True,0,0.0,True,False
+06M02,FlowCool Pressure Dropped Below Limit,8929162,True,0,0.0,True,False
+06M02,FlowCool Pressure Dropped Below Limit,8969138,True,863,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,8998608,True,863,3596.0,True,True
+06M02,Flowcool Pressure Too High Check Flowcool Pump,8998616,True,863,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,9001568,True,870,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,9008888,True,263,1048.0,True,False
+06M02,FlowCool Pressure Dropped Below Limit,9010842,True,0,0.0,True,False
+06M02,FlowCool Pressure Dropped Below Limit,9012212,True,0,0.0,True,False
+06M02,Flowcool Pressure Too High Check Flowcool Pump,9012248,True,0,0.0,True,False
+06M02,FlowCool Pressure Dropped Below Limit,9014048,True,0,0.0,True,False
+06M02,FlowCool Pressure Dropped Below Limit,9017146,True,0,0.0,True,False
+06M02,Flowcool Pressure Too High Check Flowcool Pump,9017152,True,0,0.0,True,False
+06M02,FlowCool Pressure Dropped Below Limit,9057166,True,831,3464.0,True,True
+06M02,Flowcool Pressure Too High Check Flowcool Pump,9057266,True,856,3564.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,13249964,True,900,3596.0,True,True
+06M02,Flowcool leak,13250760,True,900,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,13262678,True,900,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,13268944,True,900,3596.0,True,True
+06M02,Flowcool leak,13272442,True,900,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,13273378,True,900,3596.0,True,True
+06M02,Flowcool leak,15452954,True,870,3596.0,True,True
+06M02,Flowcool leak,15453882,True,835,3596.0,True,True
+06M02,Flowcool leak,15456670,True,334,1472.0,True,False
+06M02,Flowcool leak,15458304,True,73,1300.0,True,False
+06M02,Flowcool leak,15459190,True,217,2184.0,True,False
+06M02,Flowcool leak,15668688,True,826,3596.0,True,True
+06M02,Flowcool leak,29703908,True,806,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,29722982,True,864,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,29737974,True,900,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,29745170,True,863,3596.0,True,True
+06M02,FlowCool Pressure Dropped Below Limit,29759516,True,428,1708.0,True,False
+06M02,Flowcool leak,30863910,True,900,3596.0,True,True
+06M02,Flowcool Pressure Too High Check Flowcool Pump,40178998,True,864,3596.0,True,True
+07M01,FlowCool Pressure Dropped Below Limit,12267516,True,576,3324.0,True,True
+07M01,FlowCool Pressure Dropped Below Limit,13575890,True,440,3596.0,True,True
+07M01,FlowCool Pressure Dropped Below Limit,13577410,True,546,3596.0,True,True
+07M01,Flowcool leak,13599666,True,737,3476.0,True,True
+07M01,Flowcool leak,13652176,True,682,3080.0,True,True
+07M01,Flowcool leak,13663658,True,690,3108.0,True,True
+07M01,Flowcool leak,13729950,True,656,3148.0,True,True
+07M01,Flowcool leak,13792048,True,772,3596.0,True,True
+07M01,Flowcool leak,13829434,True,727,3252.0,True,True
+07M01,FlowCool Pressure Dropped Below Limit,13830242,True,642,3596.0,True,True
+07M01,Flowcool leak,13834562,True,412,3012.0,True,True
+07M01,Flowcool leak,13856038,True,685,3080.0,True,True
+07M01,FlowCool Pressure Dropped Below Limit,14457514,True,804,3556.0,True,True
+07M01,FlowCool Pressure Dropped Below Limit,14970682,True,648,3212.0,True,True
+07M01,Flowcool leak,20605838,True,0,0.0,True,False
+07M01,Flowcool Pressure Too High Check Flowcool Pump,24694404,True,657,3260.0,True,True
+07M01,FlowCool Pressure Dropped Below Limit,25270616,True,0,0.0,True,False
+07M01,Flowcool leak,25271262,True,0,0.0,True,False
+07M01,FlowCool Pressure Dropped Below Limit,25271910,True,0,0.0,True,False
+07M01,Flowcool leak,25276762,True,0,0.0,True,False
+07M01,FlowCool Pressure Dropped Below Limit,25280540,True,0,0.0,True,False
+07M01,FlowCool Pressure Dropped Below Limit,29525688,True,701,3320.0,True,True
+07M01,FlowCool Pressure Dropped Below Limit,29643162,True,0,0.0,True,False
+07M01,FlowCool Pressure Dropped Below Limit,29658122,True,0,0.0,True,False
+07M01,Flowcool Pressure Too High Check Flowcool Pump,29723478,True,900,3596.0,True,True
+07M01,Flowcool leak,36682624,True,0,0.0,True,False
+07M01,FlowCool Pressure Dropped Below Limit,36927786,True,435,1736.0,True,False
+07M01,FlowCool Pressure Dropped Below Limit,37171630,True,0,0.0,True,False
+07M01,FlowCool Pressure Dropped Below Limit,38697550,True,108,428.0,True,False
+07M01,Flowcool leak,40257294,True,0,0.0,True,False
+07M01,Flowcool leak,40262444,True,0,0.0,True,False
+07M01,Flowcool leak,40263632,True,0,0.0,True,False
+07M01,Flowcool leak,40271332,True,0,0.0,True,False
+07M01,Flowcool leak,40277306,True,0,0.0,True,False
+07M01,Flowcool leak,40283254,True,0,0.0,True,False
+07M02,Flowcool Pressure Too High Check Flowcool Pump,7601086,True,495,3504.0,True,True
+07M02,Flowcool Pressure Too High Check Flowcool Pump,7603648,True,375,1798.0,True,False
+07M02,Flowcool Pressure Too High Check Flowcool Pump,7604258,True,261,1188.0,True,False
+07M02,FlowCool Pressure Dropped Below Limit,24896468,True,465,3596.0,True,True
+07M02,FlowCool Pressure Dropped Below Limit,36945770,True,0,0.0,True,False
+07M02,FlowCool Pressure Dropped Below Limit,37150076,True,722,2884.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,5816876,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,6562542,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,6760814,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,7858308,True,799,3192.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,9157656,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,11778912,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,12276394,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,12631192,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,12800366,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,12868648,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,13117442,True,863,3598.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,13120338,True,730,3596.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,13147004,True,607,2576.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,13220878,True,862,3598.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,13224754,True,900,3596.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,13230774,True,864,3596.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,13255688,True,716,3012.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,13263702,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,13949010,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,14652736,True,900,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,16454518,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,16533394,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,16782112,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,17060832,True,399,3596.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,17096438,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,17128588,True,900,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,17252738,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,18036650,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,18265194,True,900,3596.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,18266068,True,844,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,18266292,True,844,3596.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,18299396,True,301,1200.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,18595848,True,806,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,18643116,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19492170,True,46,180.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19510074,True,900,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,19570768,True,900,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,19578792,True,828,3596.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19596426,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,19649020,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19659746,True,900,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,19660094,True,900,3596.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19693174,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19703708,True,586,2340.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,19715446,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,19734480,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19757974,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19768146,True,727,3176.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19844812,True,652,2904.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19865206,True,550,3584.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,19867094,True,718,3008.0,True,True
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19872776,True,830,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,19878190,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19898846,True,588,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,19915070,True,286,1140.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,19936344,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,19955646,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,20092954,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,20318552,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,20330998,True,332,1324.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,21216184,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,22055030,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,22260320,True,0,0.0,True,False
+08M01,Flowcool leak,22301980,True,781,3594.0,True,True
+08M01,Flowcool leak,22304070,True,813,3506.0,True,True
+08M01,Flowcool leak,22306378,True,676,3286.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,22727380,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,23268994,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,23472132,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,23918770,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,24012290,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,24176990,True,0,0.0,True,False
+08M01,Flowcool leak,24867812,True,386,1696.0,True,False
+08M01,Flowcool leak,24869562,True,786,3448.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,25566366,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,28440806,True,537,2440.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,28529416,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,28659782,True,789,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,29347562,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,29455966,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,29922820,True,288,1148.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,30059018,True,201,952.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,30168020,True,398,2028.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,30527198,True,863,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,30568226,True,789,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,30832522,True,776,3392.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,31033882,True,88,348.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,32119896,True,645,2856.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,33115908,True,143,686.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,33144016,True,843,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,33439490,True,0,0.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,33462368,True,900,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,34955722,True,426,1846.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,35535170,True,491,3540.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,36002702,True,877,3504.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,36733642,True,863,3598.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,36860974,True,554,2504.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,37069768,True,795,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,37133684,True,347,1384.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,37201474,True,900,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,37282142,True,370,1612.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,37347462,True,825,3596.0,True,True
+08M01,FlowCool Pressure Dropped Below Limit,37406998,True,255,1160.0,True,False
+08M01,Flowcool leak,38234812,True,830,3596.0,True,True
+08M01,Flowcool leak,38262064,True,67,264.0,True,False
+08M01,Flowcool leak,38531128,True,531,2120.0,True,False
+08M01,Flowcool leak,38554680,True,403,1984.0,True,False
+08M01,Flowcool leak,38555612,True,317,1638.0,True,False
+08M01,FlowCool Pressure Dropped Below Limit,38555844,True,282,1262.0,True,False
+08M01,Flowcool leak,38567190,True,0,0.0,True,False
+08M01,Flowcool leak,38568720,True,0,0.0,True,False
+08M01,Flowcool Pressure Too High Check Flowcool Pump,38663140,True,0,0.0,True,False
+08M01,Flowcool leak,38712532,True,900,3596.0,True,True
+08M01,Flowcool leak,38753442,True,670,3348.0,True,True
+08M01,Flowcool leak,38790684,True,678,3592.0,True,True
+08M01,Flowcool leak,38812838,True,790,3532.0,True,True
+08M01,Flowcool leak,38897382,True,276,1118.0,True,False
+08M02,Flowcool Pressure Too High Check Flowcool Pump,19254254,True,900,3598.0,True,True
+08M02,Flowcool Pressure Too High Check Flowcool Pump,19255042,True,900,3598.0,True,True
+08M02,Flowcool Pressure Too High Check Flowcool Pump,23066382,True,0,0.0,True,False
+08M02,Flowcool Pressure Too High Check Flowcool Pump,23067124,True,0,0.0,True,False
+08M02,Flowcool Pressure Too High Check Flowcool Pump,23069616,True,0,0.0,True,False
+08M02,Flowcool Pressure Too High Check Flowcool Pump,36011192,True,827,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,4279600,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,4822584,True,723,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,4915488,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,5478756,True,443,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,7387060,True,227,1076.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,7439202,True,592,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,7447458,True,568,2832.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,7729604,True,209,1004.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,8079482,True,676,3594.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,8458792,True,721,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,8767424,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,8888732,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,9047576,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,9155244,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,9586136,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,9977958,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,10573898,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,10669942,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,10795584,True,0,0.0,True,False
+09M01,Flowcool leak,10879310,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,11135094,True,768,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,11170008,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,11172396,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,11176134,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,12393622,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,13277436,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,13513822,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,13711616,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,14162792,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,14220828,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,14282796,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,14444880,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,15037374,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,15405368,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,15469234,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,16183458,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,16227824,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,16305958,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,16394426,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,16494612,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,16693482,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,16724276,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,16771156,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,17017160,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,17535348,True,201,984.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,17551516,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,17639472,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,17822072,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,17929086,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,18041396,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,18686152,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,20019560,True,586,2648.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,21030854,True,696,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,22385590,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,22445632,True,509,2460.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,22565616,True,780,3586.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,22619484,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,22733864,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,24114468,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,24156586,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,24221104,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,24473044,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,24823014,True,373,1492.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,25173644,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,25337646,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,26049678,True,513,3592.0,True,True
+09M01,Flowcool leak,26750650,True,436,2126.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,26896966,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,27319520,True,831,3456.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,27416028,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,27556748,True,322,1544.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,27749488,True,736,3598.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,27784912,True,852,3594.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,28794094,True,405,2040.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,28811646,True,711,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,29100780,True,434,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,29247412,True,686,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,29299234,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,29347606,True,656,3268.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,29510636,True,303,1384.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,29812916,True,468,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,30043170,True,546,2600.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,30365664,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,30494856,True,101,400.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,30510590,True,851,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,30701784,True,257,1024.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,30822290,True,309,1232.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,30867576,True,300,1436.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,30896096,True,396,1900.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,30947632,True,497,2632.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,31314834,True,187,912.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,31544780,True,719,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,31643402,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,31688776,True,673,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,32211542,True,734,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,32323758,True,724,3488.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,32479222,True,646,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,32730086,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,32731512,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,32765052,True,855,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,32773256,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,32775228,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,32781550,True,281,1332.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,32966874,True,304,1358.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,32986878,True,221,1054.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,32989490,True,279,1288.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,33008292,True,276,2488.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,33136924,True,159,632.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,33377244,True,79,314.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,33458014,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,33473470,True,350,1748.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,33517868,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,34749426,True,435,1908.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,34810854,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,34947840,True,772,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,34967278,True,323,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,35473370,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,35547158,True,670,3316.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,35613186,True,818,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,35672428,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,35691266,True,245,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,35998274,True,779,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,36040930,True,0,0.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,36060004,True,352,1588.0,True,False
+09M01,FlowCool Pressure Dropped Below Limit,36102720,True,766,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,36133672,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,36917050,True,737,3236.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,37045722,True,900,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,37101534,True,722,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,37439264,True,875,3596.0,True,True
+09M01,FlowCool Pressure Dropped Below Limit,37543064,True,614,3492.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,37760686,True,0,0.0,True,False
+09M01,Flowcool Pressure Too High Check Flowcool Pump,37921006,True,901,3598.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,38125542,True,377,1860.0,True,False
+09M01,Flowcool Pressure Too High Check Flowcool Pump,38229026,True,405,3592.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,39092384,True,469,2232.0,True,False
+09M01,Flowcool Pressure Too High Check Flowcool Pump,39111794,True,765,3596.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,39135814,True,857,3596.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,39407830,True,141,560.0,True,False
+09M01,Flowcool Pressure Too High Check Flowcool Pump,39925012,True,741,3596.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,40225118,True,478,2272.0,True,False
+09M01,Flowcool Pressure Too High Check Flowcool Pump,40429844,True,555,3596.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,40545314,True,158,626.0,True,False
+09M01,Flowcool Pressure Too High Check Flowcool Pump,40760524,True,642,2932.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,41009748,True,601,3572.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,41709688,True,527,2464.0,True,False
+09M01,Flowcool Pressure Too High Check Flowcool Pump,41946338,True,378,3596.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,42238626,True,483,2224.0,True,False
+09M01,Flowcool Pressure Too High Check Flowcool Pump,42579112,True,822,3594.0,True,True
+09M01,Flowcool Pressure Too High Check Flowcool Pump,42819514,True,781,3530.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,3333718,False,0,0.0,False,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,3706822,False,0,0.0,False,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,3887150,False,0,0.0,False,False
+09M02,FlowCool Pressure Dropped Below Limit,5292816,True,123,488.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,5601306,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,5609322,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,5611978,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,5612710,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,5614926,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,7888422,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,8368352,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,8491944,True,0,0.0,True,False
+09M02,FlowCool Pressure Dropped Below Limit,10823794,True,701,3596.0,True,True
+09M02,FlowCool Pressure Dropped Below Limit,10979744,True,550,2560.0,True,False
+09M02,FlowCool Pressure Dropped Below Limit,10981668,True,567,3516.0,True,True
+09M02,FlowCool Pressure Dropped Below Limit,11118582,True,652,3596.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,11202406,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,11827146,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,12559166,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,12799754,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,17594918,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,19431290,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,19433448,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,20007736,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,21193930,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,21261772,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,21263870,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,21264824,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,21300084,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,21803140,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,22094606,True,600,3404.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,22127992,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,22129112,True,120,476.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,22129544,True,228,908.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,22132084,True,584,2540.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,22133150,True,426,3460.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,23077674,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,23918396,True,0,0.0,True,False
+09M02,FlowCool Pressure Dropped Below Limit,25925274,True,712,3208.0,True,True
+09M02,FlowCool Pressure Dropped Below Limit,25945906,True,755,3596.0,True,True
+09M02,FlowCool Pressure Dropped Below Limit,26021510,True,670,3512.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,26203694,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,26206882,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,26903568,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,27961676,True,723,3076.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,28280678,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,29971142,True,749,3596.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,30100486,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,30241012,True,50,196.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,35520404,True,111,440.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,36028038,True,747,3596.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,36320820,True,482,2284.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,36799210,True,749,3596.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,37007992,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,37180898,True,760,3596.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,38643858,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,38892524,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,40380944,True,734,3112.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,43136900,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,43750072,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,44330638,True,0,0.0,True,False
+09M02,Flowcool Pressure Too High Check Flowcool Pump,45668024,True,900,3596.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,45669182,True,900,3596.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,45670356,True,900,3596.0,True,True
+09M02,Flowcool Pressure Too High Check Flowcool Pump,45678266,True,900,3596.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,4557174,True,818,3596.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,4882164,True,684,2892.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,4975358,True,797,3596.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,4985722,True,821,3596.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,5004756,True,819,3596.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,8112294,True,28,108.0,True,False
+10M01,Flowcool leak,8157474,True,584,3596.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,8364794,True,0,0.0,True,False
+10M01,Flowcool leak,8376886,True,900,3596.0,True,True
+10M01,Flowcool leak,8438260,True,735,3596.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,8439408,True,693,3096.0,True,True
+10M01,Flowcool leak,8497252,True,860,3596.0,True,True
+10M01,Flowcool leak,8499642,True,858,3596.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,8500038,True,858,3596.0,True,True
+10M01,FlowCool Pressure Dropped Below Limit,8605164,True,574,2768.0,True,False
+10M01,Flowcool leak,8624476,True,0,0.0,True,False
+10M01,Flowcool Pressure Too High Check Flowcool Pump,8641054,True,0,0.0,True,False
+10M01,Flowcool leak,8642504,True,0,0.0,True,False
+10M01,Flowcool leak,8643474,True,0,0.0,True,False
+10M01,Flowcool leak,8646270,True,0,0.0,True,False
+10M01,FlowCool Pressure Dropped Below Limit,8656786,True,0,0.0,True,False
+10M01,FlowCool Pressure Dropped Below Limit,8657956,True,0,0.0,True,False
+10M01,Flowcool leak,8658824,True,0,0.0,True,False
+10M01,Flowcool leak,8660048,True,0,0.0,True,False
+10M01,Flowcool leak,8660778,True,0,0.0,True,False
+10M01,Flowcool leak,8677306,True,0,0.0,True,False
+10M01,Flowcool leak,8810600,True,0,0.0,True,False
+10M01,Flowcool leak,8817644,True,0,0.0,True,False
+10M01,Flowcool leak,8833072,True,0,0.0,True,False
+10M01,FlowCool Pressure Dropped Below Limit,35471140,True,829,3476.0,True,True
+10M02,FlowCool Pressure Dropped Below Limit,27325070,True,609,3512.0,True,True
+10M02,FlowCool Pressure Dropped Below Limit,27410422,True,751,3328.0,True,True

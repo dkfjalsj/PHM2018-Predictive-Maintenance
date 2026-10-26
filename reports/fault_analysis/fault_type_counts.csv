@@ -1,0 +1,5 @@
+fault_name,fault_count,tools,share_pct
+FlowCool Pressure Dropped Below Limit,756,19,61.165048543689316
+Flowcool Pressure Too High Check Flowcool Pump,340,19,27.508090614886733
+Flowcool leak,139,14,11.245954692556634
+Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],1,1,0.08090614886731393

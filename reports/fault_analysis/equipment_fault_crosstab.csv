@@ -1,0 +1,21 @@
+Tool,FlowCool Pressure Dropped Below Limit,Flowcool Pressure Too High Check Flowcool Pump,Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],Flowcool leak
+01M01,13,5,0,1
+01M02,53,40,0,16
+02M01,9,7,0,1
+02M02,5,28,0,0
+03M01,42,51,0,0
+03M02,301,50,1,9
+04M01,7,1,0,1
+04M02,21,1,0,15
+05M01,14,7,0,7
+05M02,6,17,0,5
+06M01,10,3,0,3
+06M02,28,5,0,28
+07M01,15,2,0,18
+07M02,3,3,0,0
+08M01,68,32,0,17
+08M02,0,6,0,0
+09M01,132,19,0,2
+09M02,9,62,0,0
+10M01,18,1,0,16
+10M02,2,0,0,0

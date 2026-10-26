@@ -1,0 +1,17 @@
+fault_name,raw_rows,unique_records,duplicate_excess,outside_range,in_range,prewindow_coverage,proximity_threshold,clusters,eligible_cluster_anchors
+FlowCool Pressure Dropped Below Limit,756,741,15,0,741,292,0,741,292
+FlowCool Pressure Dropped Below Limit,756,741,15,0,741,292,60,741,292
+FlowCool Pressure Dropped Below Limit,756,741,15,0,741,292,600,738,289
+FlowCool Pressure Dropped Below Limit,756,741,15,0,741,292,3600,701,273
+Flowcool Pressure Too High Check Flowcool Pump,340,332,8,4,328,82,0,332,82
+Flowcool Pressure Too High Check Flowcool Pump,340,332,8,4,328,82,60,332,82
+Flowcool Pressure Too High Check Flowcool Pump,340,332,8,4,328,82,600,328,82
+Flowcool Pressure Too High Check Flowcool Pump,340,332,8,4,328,82,3600,277,74
+Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],1,1,0,0,1,1,0,1,1
+Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],1,1,0,0,1,1,60,1,1
+Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],1,1,0,0,1,1,600,1,1
+Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],1,1,0,0,1,1,3600,1,1
+Flowcool leak,139,137,2,0,137,73,0,137,73
+Flowcool leak,139,137,2,0,137,73,60,137,73
+Flowcool leak,139,137,2,0,137,73,600,134,72
+Flowcool leak,139,137,2,0,137,73,3600,112,65

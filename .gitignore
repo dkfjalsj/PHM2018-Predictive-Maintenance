@@ -1,0 +1,63 @@
+# Machine-specific configuration and credentials
+.env
+.env.*
+!.env.example
+.local/
+.vscode/
+.idea/
+# Exact preserved originals can contain private absolute paths and large samples.
+/reports/archive/
+/src/legacy/
+/reports/generated/
+# Raw/intermediate data: opt in only after size/privacy review.
+/data/
+**/train/
+**/test/
+**/train_faults/
+**/train_ttf/
+**/phm_data_challenge_2018*/
+**/*_DC_train.csv
+**/*_train_fault_data.csv
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.joblib
+*.tar
+*.tar.gz
+*.tgz
+*.gz
+*.zip
+*.7z
+*.rar
+# Only reviewed, small, sanitized aggregate tables below are eligible.
+!/reports/fault_analysis/*.csv
+!/reports/sensor_validation/*.csv
+# Environment/cache/temporary output
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+*.egg-info/
+build/
+dist/
+*.log
+*.tmp
+*.temp
+~$*
+zNex~$*
+# Models require an explicit later review.
+/models/*
+!/models/.gitkeep
+!/models/README.md

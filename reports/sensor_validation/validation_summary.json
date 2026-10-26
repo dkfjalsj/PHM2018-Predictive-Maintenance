@@ -1,0 +1,12 @@
+{
+  "sensor_rows": 82189440,
+  "tools": 20,
+  "chunk_size": 100000,
+  "window": 3600,
+  "representatives": [
+    "03M02",
+    "09M02",
+    "06M02"
+  ],
+  "old_outputs_hash_unchanged": true
+}

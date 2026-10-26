@@ -1,0 +1,54 @@
+Tool,fault_name,n,interval_n,min_gap,median_gap,mean_gap,max_gap
+01M01,FlowCool Pressure Dropped Below Limit,13,12,1744.0,1475972.0,2960287.8333333335,15385248.0
+01M01,Flowcool Pressure Too High Check Flowcool Pump,5,4,1041306.0,6730355.0,6982199.5,13426782.0
+01M01,Flowcool leak,1,0,,,,
+01M02,FlowCool Pressure Dropped Below Limit,53,52,448.0,19442.0,632501.6153846154,9921892.0
+01M02,Flowcool Pressure Too High Check Flowcool Pump,40,39,490.0,5708.0,487103.74358974356,9205414.0
+01M02,Flowcool leak,16,15,474.0,239352.0,2190070.533333333,10313636.0
+02M01,FlowCool Pressure Dropped Below Limit,9,8,756.0,2355654.0,2424805.75,5761878.0
+02M01,Flowcool Pressure Too High Check Flowcool Pump,7,6,2200.0,2352418.0,2714015.3333333335,6797474.0
+02M01,Flowcool leak,1,0,,,,
+02M02,FlowCool Pressure Dropped Below Limit,5,4,3914.0,344959.0,1305922.0,4529856.0
+02M02,Flowcool Pressure Too High Check Flowcool Pump,28,27,0.0,901560.0,1195590.962962963,3149934.0
+03M01,FlowCool Pressure Dropped Below Limit,42,41,0.0,137684.0,770415.756097561,15520762.0
+03M01,Flowcool Pressure Too High Check Flowcool Pump,51,50,472.0,62237.0,719559.92,6746934.0
+03M02,FlowCool Pressure Dropped Below Limit,301,300,0.0,69220.0,113915.94,1431564.0
+03M02,Flowcool Pressure Too High Check Flowcool Pump,50,49,0.0,197212.0,796083.5102040817,8023746.0
+03M02,Flowcool Pressure Too High Check Flowcool Pump [NoWaferID],1,0,,,,
+03M02,Flowcool leak,9,8,554.0,8453.0,1176641.0,6513290.0
+04M01,FlowCool Pressure Dropped Below Limit,7,6,4998.0,44599.0,3750581.6666666665,22262906.0
+04M01,Flowcool Pressure Too High Check Flowcool Pump,1,0,,,,
+04M01,Flowcool leak,1,0,,,,
+04M02,FlowCool Pressure Dropped Below Limit,21,20,432.0,43287.0,682692.7,4830992.0
+04M02,Flowcool Pressure Too High Check Flowcool Pump,1,0,,,,
+04M02,Flowcool leak,15,14,3810.0,544421.0,1201463.7142857143,4665544.0
+05M01,FlowCool Pressure Dropped Below Limit,14,13,770.0,25834.0,1757682.1538461538,9566688.0
+05M01,Flowcool Pressure Too High Check Flowcool Pump,7,6,188792.0,1311065.0,3892058.3333333335,11548748.0
+05M01,Flowcool leak,7,6,1456.0,121915.0,5561603.333333333,31212552.0
+05M02,FlowCool Pressure Dropped Below Limit,6,5,0.0,17024.0,4187019.2,11384292.0
+05M02,Flowcool Pressure Too High Check Flowcool Pump,17,16,96700.0,538331.0,2258262.5,10754030.0
+05M02,Flowcool leak,5,4,1734.0,3851.0,1753698.5,7005358.0
+06M01,FlowCool Pressure Dropped Below Limit,10,9,744.0,771936.0,1189472.4444444445,2610508.0
+06M01,Flowcool Pressure Too High Check Flowcool Pump,3,2,961932.0,13274747.0,13274747.0,25587562.0
+06M01,Flowcool leak,3,2,436.0,3111.0,3111.0,5786.0
+06M02,FlowCool Pressure Dropped Below Limit,28,27,1370.0,7320.0,858829.3333333334,16449604.0
+06M02,Flowcool Pressure Too High Check Flowcool Pump,5,4,4904.0,26873.0,7795095.5,31121732.0
+06M02,Flowcool leak,28,27,0.0,18574.0,961580.8148148148,14035220.0
+07M01,FlowCool Pressure Dropped Below Limit,15,14,1294.0,383000.0,1887859.5714285714,10299934.0
+07M01,Flowcool Pressure Too High Check Flowcool Pump,2,1,5029074.0,5029074.0,5029074.0,5029074.0
+07M01,Flowcool leak,18,17,1188.0,21476.0,1569622.8235294118,11405862.0
+07M02,FlowCool Pressure Dropped Below Limit,3,2,204306.0,6126804.0,6126804.0,12049302.0
+07M02,Flowcool Pressure Too High Check Flowcool Pump,3,2,610.0,1586.0,1586.0,2562.0
+08M01,FlowCool Pressure Dropped Below Limit,68,67,1098.0,208794.0,488641.3134328358,3585870.0
+08M01,Flowcool Pressure Too High Check Flowcool Pump,32,31,2896.0,37498.0,824054.7741935484,9207174.0
+08M01,Flowcool leak,17,16,932.0,25402.0,1037212.625,13365250.0
+08M02,Flowcool Pressure Too High Check Flowcool Pump,6,5,742.0,2492.0,3351387.6,12941576.0
+09M01,FlowCool Pressure Dropped Below Limit,132,131,0.0,120506.0,253919.57251908397,1908304.0
+09M01,Flowcool Pressure Too High Check Flowcool Pump,19,18,19410.0,238526.0,281046.0,863358.0
+09M01,Flowcool leak,2,1,15871340.0,15871340.0,15871340.0,15871340.0
+09M02,FlowCool Pressure Dropped Below Limit,9,8,0.0,106259.0,2591086.75,14806692.0
+09M02,Flowcool Pressure Too High Check Flowcool Pump,62,61,0.0,248666.0,694172.9180327869,5279392.0
+10M01,FlowCool Pressure Dropped Below Limit,18,17,0.0,51622.0,1818468.5882352942,26813184.0
+10M01,Flowcool Pressure Too High Check Flowcool Pump,1,0,,,,
+10M01,Flowcool leak,16,15,730.0,15428.0,45039.86666666667,219412.0
+10M02,FlowCool Pressure Dropped Below Limit,2,1,85352.0,85352.0,85352.0,85352.0

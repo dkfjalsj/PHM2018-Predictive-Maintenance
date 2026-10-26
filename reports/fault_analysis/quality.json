@@ -1,0 +1,18 @@
+{
+  "files": 20,
+  "rows": 1236,
+  "tools": 20,
+  "fault_types": 4,
+  "duplicate_rows_involved": 50,
+  "duplicate_excess": 25,
+  "numeric_duplicate_rows_involved": 50,
+  "same_tool_time_groups": 25,
+  "same_tool_time_multiple_types": 0,
+  "missing_cells": 0,
+  "nonfinite_time": 0,
+  "negative_time": 0,
+  "backward_steps": 0,
+  "zero_gaps": 25,
+  "min_time": 3326152.0,
+  "max_time": 45678266.0
+}
