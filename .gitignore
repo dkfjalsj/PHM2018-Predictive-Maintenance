@@ -64,3 +64,6 @@ zNex~$*
 
 # Separate stage-3 profiling environment
 .venv-eda/
+
+# Isolated first model comparison runtime
+.venv-model/
