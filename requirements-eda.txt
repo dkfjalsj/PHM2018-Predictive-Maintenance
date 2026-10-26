@@ -1,0 +1,4 @@
+ydata-profiling==4.18.4
+setuptools<82
+pandas<3
+numpy<2.4
